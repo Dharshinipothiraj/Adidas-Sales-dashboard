@@ -48,9 +48,6 @@ How to Use
 3. Use slicers to filter by product, region, channel  
 4. Explore KPIs and insights  
 
-Project Files
-- `Adidas_Sales.pbix` → Power BI file  
-- `Dataset.csv` → (optional, if separate)  
-- `Screenshots/Overview.png` → Page 1  
-- `Screenshots/Product_Channel.png` → Page 2  
+  
+
 
