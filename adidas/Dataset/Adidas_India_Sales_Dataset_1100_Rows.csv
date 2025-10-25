@@ -1,0 +1,1101 @@
+Retailer,Retailer ID,Invoice Date,Region,City,State,Product,Price per Unit,Units Sold,Total Sales,Operating Profit,Operating Margin (%),Sales Method
+Adidas Bengaluru,RET-1001,2025-06-04,South,Bengaluru,Karnataka,Track Jacket,4999,17,84983,9952.76,11.71,Online
+Adidas Chennai,RET-1002,2025-06-03,South,Chennai,Tamil Nadu,Adizero SL,11999,49,587951,130232.7,22.15,Retail Store
+Adidas Kolkata,RET-1003,2025-06-25,East,Kolkata,West Bengal,Climacool T-shirt,2499,15,37485,8191.23,21.85,Online
+Adidas Mumbai,RET-1004,2025-06-30,West,Mumbai,Maharashtra,Climacool T-shirt,2499,37,92463,23007.75,24.88,Online
+Adidas Delhi,RET-1005,2025-06-25,North,Delhi,Delhi,Track Jacket,4999,30,149970,23856.74,15.91,Retail Store
+Adidas Bengaluru,RET-1006,2025-06-08,South,Bengaluru,Karnataka,Climacool T-shirt,2499,8,19992,4028.65,20.15,Retail Store
+Adidas Kolkata,RET-1007,2025-06-08,East,Kolkata,West Bengal,Track Jacket,4999,31,154969,15915.55,10.27,Retail Store
+Adidas Bengaluru,RET-1008,2025-06-10,South,Bengaluru,Karnataka,Adizero SL,11999,17,203983,38296.93,18.77,Retail Store
+Adidas Kolkata,RET-1009,2025-06-18,East,Kolkata,West Bengal,Superstar,8999,23,206977,23358.06,11.29,Online
+Adidas Mumbai,RET-1010,2025-06-04,West,Mumbai,Maharashtra,Adizero SL,11999,32,383968,40389.77,10.52,Retail Store
+Adidas Kolkata,RET-1011,2025-06-27,East,Kolkata,West Bengal,Superstar,8999,29,260971,28902.39,11.07,Online
+Adidas Delhi,RET-1012,2025-06-07,North,Delhi,Delhi,Superstar,8999,23,206977,21356.91,10.32,Online
+Adidas Kolkata,RET-1013,2025-06-23,East,Kolkata,West Bengal,Ultraboost 22,18999,6,113994,26749.67,23.47,Retail Store
+Adidas Chennai,RET-1014,2025-06-21,South,Chennai,Tamil Nadu,Track Jacket,4999,48,239952,49029.95,20.43,Retail Store
+Adidas Kolkata,RET-1015,2025-06-03,East,Kolkata,West Bengal,Climacool T-shirt,2499,30,74970,9837.11,13.12,Online
+Adidas Bengaluru,RET-1016,2025-06-02,South,Bengaluru,Karnataka,Adizero SL,11999,22,263978,47466.3,17.98,Online
+Adidas Bengaluru,RET-1017,2025-06-11,South,Bengaluru,Karnataka,Adizero SL,11999,6,71994,7361.08,10.22,Retail Store
+Adidas Kolkata,RET-1018,2025-06-07,East,Kolkata,West Bengal,Climacool T-shirt,2499,39,97461,12066.98,12.38,Online
+Adidas Mumbai,RET-1019,2025-06-17,West,Mumbai,Maharashtra,Superstar,8999,34,305966,40047.86,13.09,Retail Store
+Adidas Chennai,RET-1020,2025-06-20,South,Chennai,Tamil Nadu,Adizero SL,11999,32,383968,64879.26,16.9,Online
+Adidas Kolkata,RET-1021,2025-06-17,East,Kolkata,West Bengal,Superstar,8999,9,80991,14394.78,17.77,Retail Store
+Adidas Chennai,RET-1022,2025-06-09,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,40,99960,16534.19,16.54,Online
+Adidas Mumbai,RET-1023,2025-06-10,West,Mumbai,Maharashtra,Superstar,8999,22,197978,43661.59,22.05,Retail Store
+Adidas Kolkata,RET-1024,2025-06-23,East,Kolkata,West Bengal,Superstar,8999,8,71992,10374.38,14.41,Retail Store
+Adidas Bengaluru,RET-1025,2025-06-06,South,Bengaluru,Karnataka,Climacool T-shirt,2499,36,89964,10593.26,11.77,Retail Store
+Adidas Mumbai,RET-1026,2025-06-05,West,Mumbai,Maharashtra,Sports Cap,999,30,29970,4415.95,14.73,Retail Store
+Adidas Chennai,RET-1027,2025-06-21,South,Chennai,Tamil Nadu,Superstar,8999,25,224975,22772.43,10.12,Retail Store
+Adidas Delhi,RET-1028,2025-06-03,North,Delhi,Delhi,Adizero SL,11999,45,539955,129381.16,23.96,Online
+Adidas Chennai,RET-1029,2025-06-03,South,Chennai,Tamil Nadu,Superstar,8999,16,143984,34826.11,24.19,Retail Store
+Adidas Mumbai,RET-1030,2025-06-17,West,Mumbai,Maharashtra,Ultraboost 22,18999,29,550971,92759.51,16.84,Online
+Adidas Bengaluru,RET-1031,2025-06-10,South,Bengaluru,Karnataka,Sports Cap,999,20,19980,3075.85,15.39,Online
+Adidas Kolkata,RET-1032,2025-06-12,East,Kolkata,West Bengal,Adizero SL,11999,33,395967,57186.11,14.44,Retail Store
+Adidas Kolkata,RET-1033,2025-06-15,East,Kolkata,West Bengal,Adizero SL,11999,13,155987,33494.81,21.47,Online
+Adidas Delhi,RET-1034,2025-06-07,North,Delhi,Delhi,Ultraboost 22,18999,19,360981,56885.68,15.76,Online
+Adidas Kolkata,RET-1035,2025-06-18,East,Kolkata,West Bengal,Superstar,8999,39,350961,49871.87,14.21,Retail Store
+Adidas Kolkata,RET-1036,2025-06-07,East,Kolkata,West Bengal,Superstar,8999,16,143984,20321.69,14.11,Online
+Adidas Kolkata,RET-1037,2025-06-04,East,Kolkata,West Bengal,Ultraboost 22,18999,34,645966,152442.64,23.6,Retail Store
+Adidas Delhi,RET-1038,2025-06-15,North,Delhi,Delhi,Track Jacket,4999,29,144971,33727.84,23.27,Retail Store
+Adidas Kolkata,RET-1039,2025-06-22,East,Kolkata,West Bengal,Superstar,8999,9,80991,8607.42,10.63,Online
+Adidas Chennai,RET-1040,2025-06-20,South,Chennai,Tamil Nadu,Track Jacket,4999,8,39992,5042.76,12.61,Retail Store
+Adidas Delhi,RET-1041,2025-06-02,North,Delhi,Delhi,Ultraboost 22,18999,44,835956,122568.39,14.66,Online
+Adidas Delhi,RET-1042,2025-06-10,North,Delhi,Delhi,Climacool T-shirt,2499,45,112455,26974.76,23.99,Online
+Adidas Bengaluru,RET-1043,2025-06-11,South,Bengaluru,Karnataka,Adizero SL,11999,43,515957,120159.2,23.29,Online
+Adidas Mumbai,RET-1044,2025-06-14,West,Mumbai,Maharashtra,Track Jacket,4999,40,199960,24707.52,12.36,Online
+Adidas Mumbai,RET-1045,2025-06-08,West,Mumbai,Maharashtra,Ultraboost 22,18999,42,797958,143026.61,17.92,Online
+Adidas Chennai,RET-1046,2025-06-17,South,Chennai,Tamil Nadu,Adizero SL,11999,46,551954,84612.83,15.33,Retail Store
+Adidas Bengaluru,RET-1047,2025-06-03,South,Bengaluru,Karnataka,Track Jacket,4999,6,29994,7187.5,23.96,Online
+Adidas Mumbai,RET-1048,2025-06-24,West,Mumbai,Maharashtra,Ultraboost 22,18999,47,892953,121358.84,13.59,Online
+Adidas Delhi,RET-1049,2025-06-02,North,Delhi,Delhi,Climacool T-shirt,2499,6,14994,2781.08,18.55,Retail Store
+Adidas Bengaluru,RET-1050,2025-06-26,South,Bengaluru,Karnataka,Ultraboost 22,18999,38,721962,149389.68,20.69,Retail Store
+Adidas Kolkata,RET-1051,2025-06-21,East,Kolkata,West Bengal,Track Jacket,4999,15,74985,9343.6,12.46,Online
+Adidas Kolkata,RET-1052,2025-06-18,East,Kolkata,West Bengal,Sports Cap,999,17,16983,2046.96,12.05,Retail Store
+Adidas Delhi,RET-1053,2025-06-20,North,Delhi,Delhi,Adizero SL,11999,7,83993,17047.38,20.3,Online
+Adidas Chennai,RET-1054,2025-06-26,South,Chennai,Tamil Nadu,Adizero SL,11999,30,359970,88805.6,24.67,Online
+Adidas Kolkata,RET-1055,2025-06-22,East,Kolkata,West Bengal,Sports Cap,999,26,25974,2784.51,10.72,Retail Store
+Adidas Delhi,RET-1056,2025-06-20,North,Delhi,Delhi,Superstar,8999,46,413954,100837.18,24.36,Retail Store
+Adidas Delhi,RET-1057,2025-06-01,North,Delhi,Delhi,Ultraboost 22,18999,46,873954,109824.76,12.57,Retail Store
+Adidas Kolkata,RET-1058,2025-06-01,East,Kolkata,West Bengal,Track Jacket,4999,50,249950,31607.52,12.65,Online
+Adidas Bengaluru,RET-1059,2025-06-02,South,Bengaluru,Karnataka,Track Jacket,4999,6,29994,4007.51,13.36,Online
+Adidas Delhi,RET-1060,2025-06-26,North,Delhi,Delhi,Adizero SL,11999,26,311974,44840.51,14.37,Online
+Adidas Kolkata,RET-1061,2025-06-08,East,Kolkata,West Bengal,Climacool T-shirt,2499,28,69972,7021.4,10.03,Online
+Adidas Delhi,RET-1062,2025-06-04,North,Delhi,Delhi,Superstar,8999,21,188979,21118.75,11.18,Online
+Adidas Kolkata,RET-1063,2025-06-20,East,Kolkata,West Bengal,Superstar,8999,9,80991,12592.31,15.55,Online
+Adidas Mumbai,RET-1064,2025-06-03,West,Mumbai,Maharashtra,Superstar,8999,12,107988,25055.91,23.2,Retail Store
+Adidas Bengaluru,RET-1065,2025-06-10,South,Bengaluru,Karnataka,Adizero SL,11999,28,335972,63407.98,18.87,Retail Store
+Adidas Kolkata,RET-1066,2025-06-29,East,Kolkata,West Bengal,Sports Cap,999,29,28971,3938.59,13.59,Retail Store
+Adidas Chennai,RET-1067,2025-06-01,South,Chennai,Tamil Nadu,Track Jacket,4999,17,84983,9759.27,11.48,Online
+Adidas Mumbai,RET-1068,2025-06-10,West,Mumbai,Maharashtra,Superstar,8999,29,260971,61118.0,23.42,Retail Store
+Adidas Bengaluru,RET-1069,2025-06-24,South,Bengaluru,Karnataka,Sports Cap,999,22,21978,3002.05,13.66,Retail Store
+Adidas Delhi,RET-1070,2025-06-12,North,Delhi,Delhi,Ultraboost 22,18999,5,94995,12171.27,12.81,Retail Store
+Adidas Delhi,RET-1071,2025-06-10,North,Delhi,Delhi,Adizero SL,11999,15,179985,32804.47,18.23,Online
+Adidas Delhi,RET-1072,2025-06-05,North,Delhi,Delhi,Track Jacket,4999,29,144971,16445.25,11.34,Online
+Adidas Delhi,RET-1073,2025-06-16,North,Delhi,Delhi,Climacool T-shirt,2499,42,104958,18673.94,17.79,Online
+Adidas Kolkata,RET-1074,2025-06-22,East,Kolkata,West Bengal,Climacool T-shirt,2499,32,79968,10808.43,13.52,Online
+Adidas Delhi,RET-1075,2025-06-22,North,Delhi,Delhi,Ultraboost 22,18999,6,113994,15768.21,13.83,Retail Store
+Adidas Delhi,RET-1076,2025-06-05,North,Delhi,Delhi,Sports Cap,999,26,25974,4338.66,16.7,Online
+Adidas Mumbai,RET-1077,2025-06-05,West,Mumbai,Maharashtra,Climacool T-shirt,2499,38,94962,23686.35,24.94,Online
+Adidas Chennai,RET-1078,2025-06-04,South,Chennai,Tamil Nadu,Sports Cap,999,43,42957,5033.0,11.72,Online
+Adidas Kolkata,RET-1079,2025-06-04,East,Kolkata,West Bengal,Track Jacket,4999,28,139972,25095.44,17.93,Online
+Adidas Delhi,RET-1080,2025-06-21,North,Delhi,Delhi,Track Jacket,4999,29,144971,22227.04,15.33,Online
+Adidas Kolkata,RET-1081,2025-06-10,East,Kolkata,West Bengal,Ultraboost 22,18999,40,759960,189823.95,24.98,Online
+Adidas Kolkata,RET-1082,2025-06-14,East,Kolkata,West Bengal,Superstar,8999,43,386957,63958.44,16.53,Retail Store
+Adidas Bengaluru,RET-1083,2025-06-29,South,Bengaluru,Karnataka,Superstar,8999,28,251972,59431.94,23.59,Online
+Adidas Chennai,RET-1084,2025-06-20,South,Chennai,Tamil Nadu,Sports Cap,999,16,15984,2652.15,16.59,Retail Store
+Adidas Kolkata,RET-1085,2025-06-27,East,Kolkata,West Bengal,Climacool T-shirt,2499,8,19992,4314.47,21.58,Retail Store
+Adidas Mumbai,RET-1086,2025-06-30,West,Mumbai,Maharashtra,Sports Cap,999,18,17982,3611.48,20.08,Online
+Adidas Mumbai,RET-1087,2025-06-10,West,Mumbai,Maharashtra,Superstar,8999,7,62993,13784.19,21.88,Online
+Adidas Chennai,RET-1088,2025-06-11,South,Chennai,Tamil Nadu,Sports Cap,999,5,4995,994.65,19.91,Online
+Adidas Bengaluru,RET-1089,2025-06-24,South,Bengaluru,Karnataka,Sports Cap,999,49,48951,5494.78,11.23,Retail Store
+Adidas Chennai,RET-1090,2025-06-13,South,Chennai,Tamil Nadu,Ultraboost 22,18999,33,626967,137688.98,21.96,Retail Store
+Adidas Mumbai,RET-1091,2025-06-28,West,Mumbai,Maharashtra,Track Jacket,4999,24,119976,16642.07,13.87,Retail Store
+Adidas Kolkata,RET-1092,2025-06-18,East,Kolkata,West Bengal,Ultraboost 22,18999,42,797958,129619.53,16.24,Retail Store
+Adidas Delhi,RET-1093,2025-06-24,North,Delhi,Delhi,Adizero SL,11999,23,275977,62466.57,22.63,Retail Store
+Adidas Mumbai,RET-1094,2025-06-22,West,Mumbai,Maharashtra,Ultraboost 22,18999,43,816957,134499.68,16.46,Online
+Adidas Bengaluru,RET-1095,2025-06-10,South,Bengaluru,Karnataka,Superstar,8999,43,386957,39597.1,10.23,Online
+Adidas Chennai,RET-1096,2025-06-29,South,Chennai,Tamil Nadu,Track Jacket,4999,28,139972,17805.02,12.72,Online
+Adidas Kolkata,RET-1097,2025-06-15,East,Kolkata,West Bengal,Adizero SL,11999,43,515957,58783.99,11.39,Retail Store
+Adidas Bengaluru,RET-1098,2025-06-03,South,Bengaluru,Karnataka,Track Jacket,4999,46,229954,52665.85,22.9,Retail Store
+Adidas Kolkata,RET-1099,2025-06-07,East,Kolkata,West Bengal,Sports Cap,999,22,21978,4205.52,19.14,Online
+Adidas Chennai,RET-1100,2025-06-01,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,48,119952,15292.96,12.75,Online
+Adidas Mumbai,RET-1101,2025-06-27,West,Mumbai,Maharashtra,Superstar,8999,27,242973,37383.79,15.39,Retail Store
+Adidas Delhi,RET-1102,2025-06-16,North,Delhi,Delhi,Sports Cap,999,38,37962,6040.21,15.91,Retail Store
+Adidas Chennai,RET-1103,2025-06-21,South,Chennai,Tamil Nadu,Adizero SL,11999,49,587951,124558.85,21.19,Retail Store
+Adidas Mumbai,RET-1104,2025-06-30,West,Mumbai,Maharashtra,Track Jacket,4999,44,219956,51759.56,23.53,Retail Store
+Adidas Mumbai,RET-1105,2025-06-14,West,Mumbai,Maharashtra,Track Jacket,4999,41,204959,46942.11,22.9,Retail Store
+Adidas Mumbai,RET-1106,2025-06-04,West,Mumbai,Maharashtra,Adizero SL,11999,30,359970,86682.73,24.08,Retail Store
+Adidas Kolkata,RET-1107,2025-06-14,East,Kolkata,West Bengal,Adizero SL,11999,32,383968,85594.17,22.29,Online
+Adidas Mumbai,RET-1108,2025-06-19,West,Mumbai,Maharashtra,Climacool T-shirt,2499,31,77469,14983.52,19.34,Online
+Adidas Bengaluru,RET-1109,2025-06-06,South,Bengaluru,Karnataka,Track Jacket,4999,18,89982,11625.04,12.92,Online
+Adidas Mumbai,RET-1110,2025-06-16,West,Mumbai,Maharashtra,Track Jacket,4999,6,29994,6306.24,21.03,Retail Store
+Adidas Delhi,RET-1111,2025-06-16,North,Delhi,Delhi,Superstar,8999,13,116987,23431.54,20.03,Retail Store
+Adidas Chennai,RET-1112,2025-06-25,South,Chennai,Tamil Nadu,Sports Cap,999,38,37962,6460.64,17.02,Online
+Adidas Chennai,RET-1113,2025-06-22,South,Chennai,Tamil Nadu,Superstar,8999,35,314965,45115.48,14.32,Online
+Adidas Delhi,RET-1114,2025-06-19,North,Delhi,Delhi,Ultraboost 22,18999,16,303984,49779.41,16.38,Retail Store
+Adidas Delhi,RET-1115,2025-06-13,North,Delhi,Delhi,Superstar,8999,37,332963,63895.4,19.19,Retail Store
+Adidas Mumbai,RET-1116,2025-06-18,West,Mumbai,Maharashtra,Adizero SL,11999,39,467961,90815.77,19.41,Retail Store
+Adidas Delhi,RET-1117,2025-06-30,North,Delhi,Delhi,Ultraboost 22,18999,45,854955,125543.72,14.68,Retail Store
+Adidas Chennai,RET-1118,2025-06-17,South,Chennai,Tamil Nadu,Ultraboost 22,18999,18,341982,40961.46,11.98,Retail Store
+Adidas Delhi,RET-1119,2025-06-18,North,Delhi,Delhi,Ultraboost 22,18999,22,417978,79476.17,19.01,Online
+Adidas Mumbai,RET-1120,2025-06-19,West,Mumbai,Maharashtra,Adizero SL,11999,8,95992,15005.38,15.63,Online
+Adidas Chennai,RET-1121,2025-06-14,South,Chennai,Tamil Nadu,Sports Cap,999,8,7992,1878.06,23.5,Online
+Adidas Chennai,RET-1122,2025-06-25,South,Chennai,Tamil Nadu,Ultraboost 22,18999,29,550971,127792.14,23.19,Online
+Adidas Bengaluru,RET-1123,2025-06-12,South,Bengaluru,Karnataka,Adizero SL,11999,38,455962,96241.9,21.11,Retail Store
+Adidas Bengaluru,RET-1124,2025-06-08,South,Bengaluru,Karnataka,Adizero SL,11999,10,119990,23554.85,19.63,Online
+Adidas Kolkata,RET-1125,2025-06-07,East,Kolkata,West Bengal,Ultraboost 22,18999,33,626967,119779.84,19.1,Retail Store
+Adidas Kolkata,RET-1126,2025-06-13,East,Kolkata,West Bengal,Sports Cap,999,31,30969,6568.38,21.21,Online
+Adidas Mumbai,RET-1127,2025-06-09,West,Mumbai,Maharashtra,Ultraboost 22,18999,7,132993,15748.48,11.84,Online
+Adidas Bengaluru,RET-1128,2025-06-21,South,Bengaluru,Karnataka,Track Jacket,4999,46,229954,28617.8,12.45,Retail Store
+Adidas Delhi,RET-1129,2025-06-04,North,Delhi,Delhi,Adizero SL,11999,34,407966,42498.99,10.42,Online
+Adidas Kolkata,RET-1130,2025-06-11,East,Kolkata,West Bengal,Adizero SL,11999,25,299975,58040.83,19.35,Online
+Adidas Chennai,RET-1131,2025-06-19,South,Chennai,Tamil Nadu,Adizero SL,11999,11,131989,31398.2,23.79,Online
+Adidas Mumbai,RET-1132,2025-06-27,West,Mumbai,Maharashtra,Superstar,8999,40,359960,56581.12,15.72,Retail Store
+Adidas Kolkata,RET-1133,2025-06-28,East,Kolkata,West Bengal,Sports Cap,999,33,32967,4601.58,13.96,Retail Store
+Adidas Bengaluru,RET-1134,2025-06-11,South,Bengaluru,Karnataka,Sports Cap,999,22,21978,5250.41,23.89,Online
+Adidas Delhi,RET-1135,2025-06-24,North,Delhi,Delhi,Track Jacket,4999,49,244951,49362.99,20.15,Online
+Adidas Delhi,RET-1136,2025-06-11,North,Delhi,Delhi,Ultraboost 22,18999,28,531972,95360.89,17.93,Online
+Adidas Mumbai,RET-1137,2025-06-07,West,Mumbai,Maharashtra,Track Jacket,4999,10,49990,5970.41,11.94,Retail Store
+Adidas Chennai,RET-1138,2025-06-05,South,Chennai,Tamil Nadu,Track Jacket,4999,47,234953,44373.34,18.89,Retail Store
+Adidas Bengaluru,RET-1139,2025-06-30,South,Bengaluru,Karnataka,Adizero SL,11999,16,191984,24553.18,12.79,Online
+Adidas Chennai,RET-1140,2025-06-19,South,Chennai,Tamil Nadu,Sports Cap,999,7,6993,1648.38,23.57,Retail Store
+Adidas Bengaluru,RET-1141,2025-06-11,South,Bengaluru,Karnataka,Adizero SL,11999,37,443963,64975.44,14.64,Retail Store
+Adidas Bengaluru,RET-1142,2025-06-21,South,Bengaluru,Karnataka,Ultraboost 22,18999,49,930951,106406.43,11.43,Online
+Adidas Bengaluru,RET-1143,2025-06-01,South,Bengaluru,Karnataka,Ultraboost 22,18999,50,949950,234456.28,24.68,Online
+Adidas Delhi,RET-1144,2025-06-22,North,Delhi,Delhi,Superstar,8999,43,386957,47858.78,12.37,Online
+Adidas Delhi,RET-1145,2025-06-22,North,Delhi,Delhi,Climacool T-shirt,2499,23,57477,8677.28,15.1,Retail Store
+Adidas Delhi,RET-1146,2025-06-22,North,Delhi,Delhi,Adizero SL,11999,11,131989,15049.68,11.4,Retail Store
+Adidas Kolkata,RET-1147,2025-06-10,East,Kolkata,West Bengal,Ultraboost 22,18999,11,208989,49734.69,23.8,Online
+Adidas Kolkata,RET-1148,2025-06-15,East,Kolkata,West Bengal,Ultraboost 22,18999,42,797958,111797.45,14.01,Retail Store
+Adidas Delhi,RET-1149,2025-06-06,North,Delhi,Delhi,Adizero SL,11999,50,599950,88399.79,14.73,Retail Store
+Adidas Chennai,RET-1150,2025-06-14,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,14,34986,6047.43,17.29,Online
+Adidas Bengaluru,RET-1151,2025-06-13,South,Bengaluru,Karnataka,Adizero SL,11999,6,71994,8379.56,11.64,Retail Store
+Adidas Mumbai,RET-1152,2025-06-10,West,Mumbai,Maharashtra,Adizero SL,11999,8,95992,10198.64,10.62,Retail Store
+Adidas Bengaluru,RET-1153,2025-06-07,South,Bengaluru,Karnataka,Superstar,8999,23,206977,43815.77,21.17,Retail Store
+Adidas Kolkata,RET-1154,2025-06-10,East,Kolkata,West Bengal,Track Jacket,4999,33,164967,35983.3,21.81,Retail Store
+Adidas Chennai,RET-1155,2025-06-14,South,Chennai,Tamil Nadu,Track Jacket,4999,12,59988,6091.28,10.15,Retail Store
+Adidas Kolkata,RET-1156,2025-06-01,East,Kolkata,West Bengal,Sports Cap,999,50,49950,11707.19,23.44,Online
+Adidas Chennai,RET-1157,2025-06-16,South,Chennai,Tamil Nadu,Superstar,8999,40,359960,54890.99,15.25,Retail Store
+Adidas Bengaluru,RET-1158,2025-06-25,South,Bengaluru,Karnataka,Sports Cap,999,25,24975,3808.25,15.25,Online
+Adidas Chennai,RET-1159,2025-06-18,South,Chennai,Tamil Nadu,Ultraboost 22,18999,47,892953,206934.87,23.17,Online
+Adidas Bengaluru,RET-1160,2025-06-24,South,Bengaluru,Karnataka,Adizero SL,11999,35,419965,67358.17,16.04,Retail Store
+Adidas Bengaluru,RET-1161,2025-06-21,South,Bengaluru,Karnataka,Adizero SL,11999,35,419965,53963.5,12.85,Online
+Adidas Delhi,RET-1162,2025-06-23,North,Delhi,Delhi,Climacool T-shirt,2499,29,72471,15104.69,20.84,Retail Store
+Adidas Kolkata,RET-1163,2025-06-09,East,Kolkata,West Bengal,Climacool T-shirt,2499,46,114954,26930.8,23.43,Retail Store
+Adidas Delhi,RET-1164,2025-06-24,North,Delhi,Delhi,Climacool T-shirt,2499,34,84966,14872.78,17.5,Online
+Adidas Chennai,RET-1165,2025-06-26,South,Chennai,Tamil Nadu,Track Jacket,4999,44,219956,27300.88,12.41,Online
+Adidas Chennai,RET-1166,2025-06-05,South,Chennai,Tamil Nadu,Adizero SL,11999,44,527956,120238.3,22.77,Online
+Adidas Bengaluru,RET-1167,2025-06-19,South,Bengaluru,Karnataka,Climacool T-shirt,2499,40,99960,18684.86,18.69,Retail Store
+Adidas Chennai,RET-1168,2025-06-15,South,Chennai,Tamil Nadu,Ultraboost 22,18999,5,94995,16523.63,17.39,Online
+Adidas Mumbai,RET-1169,2025-06-05,West,Mumbai,Maharashtra,Adizero SL,11999,23,275977,31134.09,11.28,Retail Store
+Adidas Bengaluru,RET-1170,2025-06-27,South,Bengaluru,Karnataka,Track Jacket,4999,27,134973,29613.12,21.94,Retail Store
+Adidas Bengaluru,RET-1171,2025-06-27,South,Bengaluru,Karnataka,Superstar,8999,8,71992,17512.7,24.33,Retail Store
+Adidas Chennai,RET-1172,2025-06-02,South,Chennai,Tamil Nadu,Ultraboost 22,18999,27,512973,53098.73,10.35,Online
+Adidas Chennai,RET-1173,2025-06-09,South,Chennai,Tamil Nadu,Sports Cap,999,34,33966,3812.36,11.22,Retail Store
+Adidas Chennai,RET-1174,2025-06-02,South,Chennai,Tamil Nadu,Adizero SL,11999,7,83993,17075.17,20.33,Online
+Adidas Kolkata,RET-1175,2025-06-05,East,Kolkata,West Bengal,Ultraboost 22,18999,24,455976,46563.34,10.21,Online
+Adidas Bengaluru,RET-1176,2025-06-28,South,Bengaluru,Karnataka,Sports Cap,999,49,48951,11418.52,23.33,Online
+Adidas Bengaluru,RET-1177,2025-06-11,South,Bengaluru,Karnataka,Track Jacket,4999,13,64987,15062.17,23.18,Online
+Adidas Bengaluru,RET-1178,2025-06-02,South,Bengaluru,Karnataka,Ultraboost 22,18999,32,607968,138655.86,22.81,Retail Store
+Adidas Chennai,RET-1179,2025-06-25,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,20,49980,10647.32,21.3,Online
+Adidas Delhi,RET-1180,2025-06-17,North,Delhi,Delhi,Adizero SL,11999,9,107991,15004.39,13.89,Online
+Adidas Chennai,RET-1181,2025-06-26,South,Chennai,Tamil Nadu,Ultraboost 22,18999,7,132993,18011.42,13.54,Retail Store
+Adidas Delhi,RET-1182,2025-06-22,North,Delhi,Delhi,Superstar,8999,5,44995,8000.04,17.78,Retail Store
+Adidas Bengaluru,RET-1183,2025-06-27,South,Bengaluru,Karnataka,Track Jacket,4999,39,194961,23608.77,12.11,Retail Store
+Adidas Kolkata,RET-1184,2025-06-08,East,Kolkata,West Bengal,Track Jacket,4999,11,54989,8781.37,15.97,Retail Store
+Adidas Kolkata,RET-1185,2025-06-05,East,Kolkata,West Bengal,Adizero SL,11999,22,263978,35224.66,13.34,Online
+Adidas Bengaluru,RET-1186,2025-06-08,South,Bengaluru,Karnataka,Sports Cap,999,13,12987,2114.68,16.28,Retail Store
+Adidas Chennai,RET-1187,2025-06-12,South,Chennai,Tamil Nadu,Ultraboost 22,18999,25,474975,85564.81,18.01,Retail Store
+Adidas Mumbai,RET-1188,2025-06-18,West,Mumbai,Maharashtra,Track Jacket,4999,26,129974,27346.39,21.04,Online
+Adidas Mumbai,RET-1189,2025-06-16,West,Mumbai,Maharashtra,Sports Cap,999,5,4995,944.93,18.92,Online
+Adidas Delhi,RET-1190,2025-06-12,North,Delhi,Delhi,Ultraboost 22,18999,25,474975,107292.24,22.59,Online
+Adidas Delhi,RET-1191,2025-06-13,North,Delhi,Delhi,Adizero SL,11999,10,119990,15008.84,12.51,Retail Store
+Adidas Delhi,RET-1192,2025-06-12,North,Delhi,Delhi,Ultraboost 22,18999,26,493974,59819.82,12.11,Retail Store
+Adidas Mumbai,RET-1193,2025-06-19,West,Mumbai,Maharashtra,Superstar,8999,34,305966,51113.97,16.71,Retail Store
+Adidas Kolkata,RET-1194,2025-06-21,East,Kolkata,West Bengal,Adizero SL,11999,5,59995,8105.75,13.51,Retail Store
+Adidas Delhi,RET-1195,2025-06-07,North,Delhi,Delhi,Climacool T-shirt,2499,34,84966,18335.26,21.58,Online
+Adidas Delhi,RET-1196,2025-06-18,North,Delhi,Delhi,Superstar,8999,24,215976,35543.37,16.46,Retail Store
+Adidas Bengaluru,RET-1197,2025-06-18,South,Bengaluru,Karnataka,Ultraboost 22,18999,15,284985,34937.05,12.26,Online
+Adidas Delhi,RET-1198,2025-06-24,North,Delhi,Delhi,Sports Cap,999,46,45954,5637.53,12.27,Online
+Adidas Chennai,RET-1199,2025-06-02,South,Chennai,Tamil Nadu,Sports Cap,999,47,46953,6798.93,14.48,Retail Store
+Adidas Delhi,RET-1200,2025-06-04,North,Delhi,Delhi,Climacool T-shirt,2499,41,102459,22369.89,21.83,Online
+Adidas Delhi,RET-1201,2025-06-22,North,Delhi,Delhi,Track Jacket,4999,32,159968,16290.39,10.18,Online
+Adidas Kolkata,RET-1202,2025-06-21,East,Kolkata,West Bengal,Ultraboost 22,18999,37,702963,101171.56,14.39,Retail Store
+Adidas Mumbai,RET-1203,2025-06-01,West,Mumbai,Maharashtra,Adizero SL,11999,42,503958,101786.85,20.2,Online
+Adidas Kolkata,RET-1204,2025-06-24,East,Kolkata,West Bengal,Ultraboost 22,18999,29,550971,129165.52,23.44,Retail Store
+Adidas Delhi,RET-1205,2025-06-12,North,Delhi,Delhi,Ultraboost 22,18999,8,151992,30609.57,20.14,Retail Store
+Adidas Mumbai,RET-1206,2025-06-25,West,Mumbai,Maharashtra,Adizero SL,11999,8,95992,12296.3,12.81,Online
+Adidas Delhi,RET-1207,2025-06-28,North,Delhi,Delhi,Adizero SL,11999,46,551954,95320.33,17.27,Online
+Adidas Bengaluru,RET-1208,2025-06-30,South,Bengaluru,Karnataka,Climacool T-shirt,2499,16,39984,7432.89,18.59,Online
+Adidas Delhi,RET-1209,2025-06-22,North,Delhi,Delhi,Track Jacket,4999,31,154969,17942.69,11.58,Retail Store
+Adidas Delhi,RET-1210,2025-06-14,North,Delhi,Delhi,Adizero SL,11999,50,599950,103369.48,17.23,Online
+Adidas Bengaluru,RET-1211,2025-06-20,South,Bengaluru,Karnataka,Sports Cap,999,7,6993,1388.61,19.86,Online
+Adidas Chennai,RET-1212,2025-06-30,South,Chennai,Tamil Nadu,Ultraboost 22,18999,23,436977,84128.53,19.25,Retail Store
+Adidas Mumbai,RET-1213,2025-06-17,West,Mumbai,Maharashtra,Sports Cap,999,12,11988,1392.8,11.62,Retail Store
+Adidas Mumbai,RET-1214,2025-06-09,West,Mumbai,Maharashtra,Adizero SL,11999,32,383968,87685.96,22.84,Online
+Adidas Chennai,RET-1215,2025-06-25,South,Chennai,Tamil Nadu,Sports Cap,999,9,8991,1151.58,12.81,Retail Store
+Adidas Bengaluru,RET-1216,2025-06-09,South,Bengaluru,Karnataka,Superstar,8999,17,152983,29807.75,19.48,Retail Store
+Adidas Chennai,RET-1217,2025-06-24,South,Chennai,Tamil Nadu,Track Jacket,4999,50,249950,58963.96,23.59,Retail Store
+Adidas Bengaluru,RET-1218,2025-06-22,South,Bengaluru,Karnataka,Superstar,8999,30,269970,50847.64,18.83,Retail Store
+Adidas Delhi,RET-1219,2025-06-13,North,Delhi,Delhi,Ultraboost 22,18999,14,265986,62684.56,23.57,Online
+Adidas Delhi,RET-1220,2025-06-12,North,Delhi,Delhi,Climacool T-shirt,2499,24,59976,13867.89,23.12,Retail Store
+Adidas Kolkata,RET-1221,2025-06-18,East,Kolkata,West Bengal,Superstar,8999,35,314965,56852.69,18.05,Online
+Adidas Delhi,RET-1222,2025-06-12,North,Delhi,Delhi,Track Jacket,4999,13,64987,9047.29,13.92,Online
+Adidas Bengaluru,RET-1223,2025-06-08,South,Bengaluru,Karnataka,Climacool T-shirt,2499,32,79968,14668.71,18.34,Retail Store
+Adidas Kolkata,RET-1224,2025-06-28,East,Kolkata,West Bengal,Superstar,8999,45,404955,47418.9,11.71,Retail Store
+Adidas Mumbai,RET-1225,2025-06-09,West,Mumbai,Maharashtra,Sports Cap,999,40,39960,8064.21,20.18,Online
+Adidas Mumbai,RET-1226,2025-06-09,West,Mumbai,Maharashtra,Climacool T-shirt,2499,19,47481,7578.65,15.96,Online
+Adidas Kolkata,RET-1227,2025-06-22,East,Kolkata,West Bengal,Adizero SL,11999,43,515957,126789.65,24.57,Online
+Adidas Delhi,RET-1228,2025-06-02,North,Delhi,Delhi,Superstar,8999,46,413954,98830.5,23.87,Retail Store
+Adidas Bengaluru,RET-1229,2025-06-06,South,Bengaluru,Karnataka,Adizero SL,11999,14,167986,39434.92,23.48,Retail Store
+Adidas Bengaluru,RET-1230,2025-06-29,South,Bengaluru,Karnataka,Track Jacket,4999,37,184963,42417.49,22.93,Online
+Adidas Bengaluru,RET-1231,2025-06-20,South,Bengaluru,Karnataka,Climacool T-shirt,2499,44,109956,14505.43,13.19,Online
+Adidas Bengaluru,RET-1232,2025-06-15,South,Bengaluru,Karnataka,Climacool T-shirt,2499,43,107457,16117.69,15.0,Retail Store
+Adidas Chennai,RET-1233,2025-06-18,South,Chennai,Tamil Nadu,Track Jacket,4999,46,229954,50211.95,21.84,Retail Store
+Adidas Kolkata,RET-1234,2025-06-28,East,Kolkata,West Bengal,Sports Cap,999,9,8991,1057.17,11.76,Retail Store
+Adidas Delhi,RET-1235,2025-06-21,North,Delhi,Delhi,Sports Cap,999,21,20979,4534.22,21.61,Retail Store
+Adidas Bengaluru,RET-1236,2025-06-01,South,Bengaluru,Karnataka,Track Jacket,4999,24,119976,15618.96,13.02,Retail Store
+Adidas Chennai,RET-1237,2025-06-20,South,Chennai,Tamil Nadu,Superstar,8999,6,53994,5416.82,10.03,Online
+Adidas Kolkata,RET-1238,2025-06-02,East,Kolkata,West Bengal,Climacool T-shirt,2499,37,92463,17050.77,18.44,Retail Store
+Adidas Bengaluru,RET-1239,2025-06-19,South,Bengaluru,Karnataka,Superstar,8999,40,359960,74787.12,20.78,Online
+Adidas Kolkata,RET-1240,2025-06-06,East,Kolkata,West Bengal,Sports Cap,999,24,23976,2524.48,10.53,Retail Store
+Adidas Kolkata,RET-1241,2025-06-02,East,Kolkata,West Bengal,Sports Cap,999,6,5994,895.72,14.94,Retail Store
+Adidas Chennai,RET-1242,2025-06-06,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,38,94962,10574.11,11.14,Retail Store
+Adidas Bengaluru,RET-1243,2025-06-05,South,Bengaluru,Karnataka,Ultraboost 22,18999,44,835956,180183.85,21.55,Retail Store
+Adidas Bengaluru,RET-1244,2025-06-22,South,Bengaluru,Karnataka,Adizero SL,11999,50,599950,88968.91,14.83,Retail Store
+Adidas Kolkata,RET-1245,2025-06-06,East,Kolkata,West Bengal,Climacool T-shirt,2499,13,32487,5656.36,17.41,Retail Store
+Adidas Bengaluru,RET-1246,2025-06-21,South,Bengaluru,Karnataka,Sports Cap,999,38,37962,6807.92,17.93,Retail Store
+Adidas Mumbai,RET-1247,2025-06-01,West,Mumbai,Maharashtra,Ultraboost 22,18999,25,474975,108560.02,22.86,Retail Store
+Adidas Delhi,RET-1248,2025-06-04,North,Delhi,Delhi,Ultraboost 22,18999,31,588969,133943.3,22.74,Retail Store
+Adidas Bengaluru,RET-1249,2025-06-23,South,Bengaluru,Karnataka,Sports Cap,999,21,20979,5009.64,23.88,Online
+Adidas Delhi,RET-1250,2025-06-13,North,Delhi,Delhi,Adizero SL,11999,43,515957,63104.14,12.23,Retail Store
+Adidas Mumbai,RET-1251,2025-06-26,West,Mumbai,Maharashtra,Sports Cap,999,12,11988,1870.76,15.61,Online
+Adidas Bengaluru,RET-1252,2025-06-29,South,Bengaluru,Karnataka,Superstar,8999,7,62993,7338.06,11.65,Retail Store
+Adidas Mumbai,RET-1253,2025-06-26,West,Mumbai,Maharashtra,Adizero SL,11999,33,395967,97608.34,24.65,Retail Store
+Adidas Chennai,RET-1254,2025-06-23,South,Chennai,Tamil Nadu,Ultraboost 22,18999,16,303984,34185.64,11.25,Online
+Adidas Bengaluru,RET-1255,2025-06-23,South,Bengaluru,Karnataka,Superstar,8999,12,107988,23734.03,21.98,Online
+Adidas Bengaluru,RET-1256,2025-06-18,South,Bengaluru,Karnataka,Ultraboost 22,18999,44,835956,125471.91,15.01,Retail Store
+Adidas Bengaluru,RET-1257,2025-06-09,South,Bengaluru,Karnataka,Ultraboost 22,18999,18,341982,48602.8,14.21,Online
+Adidas Kolkata,RET-1258,2025-06-08,East,Kolkata,West Bengal,Track Jacket,4999,35,174965,40182.62,22.97,Online
+Adidas Chennai,RET-1259,2025-06-16,South,Chennai,Tamil Nadu,Adizero SL,11999,24,287976,30752.03,10.68,Retail Store
+Adidas Mumbai,RET-1260,2025-06-24,West,Mumbai,Maharashtra,Track Jacket,4999,10,49990,8076.07,16.16,Retail Store
+Adidas Bengaluru,RET-1261,2025-06-16,South,Bengaluru,Karnataka,Ultraboost 22,18999,21,398979,96954.93,24.3,Online
+Adidas Kolkata,RET-1262,2025-06-27,East,Kolkata,West Bengal,Track Jacket,4999,9,44991,11238.45,24.98,Retail Store
+Adidas Kolkata,RET-1263,2025-06-17,East,Kolkata,West Bengal,Ultraboost 22,18999,46,873954,102147.15,11.69,Online
+Adidas Kolkata,RET-1264,2025-06-17,East,Kolkata,West Bengal,Ultraboost 22,18999,19,360981,51959.92,14.39,Online
+Adidas Bengaluru,RET-1265,2025-06-18,South,Bengaluru,Karnataka,Ultraboost 22,18999,24,455976,91336.06,20.03,Online
+Adidas Kolkata,RET-1266,2025-06-06,East,Kolkata,West Bengal,Ultraboost 22,18999,41,778959,167099.74,21.45,Retail Store
+Adidas Mumbai,RET-1267,2025-06-01,West,Mumbai,Maharashtra,Sports Cap,999,50,49950,7930.66,15.88,Online
+Adidas Bengaluru,RET-1268,2025-06-06,South,Bengaluru,Karnataka,Sports Cap,999,11,10989,1184.98,10.78,Retail Store
+Adidas Mumbai,RET-1269,2025-06-06,West,Mumbai,Maharashtra,Ultraboost 22,18999,24,455976,60762.16,13.33,Online
+Adidas Chennai,RET-1270,2025-06-13,South,Chennai,Tamil Nadu,Sports Cap,999,34,33966,8193.86,24.12,Online
+Adidas Mumbai,RET-1271,2025-06-24,West,Mumbai,Maharashtra,Sports Cap,999,46,45954,7039.5,15.32,Online
+Adidas Chennai,RET-1272,2025-06-29,South,Chennai,Tamil Nadu,Ultraboost 22,18999,16,303984,38539.53,12.68,Retail Store
+Adidas Bengaluru,RET-1273,2025-06-09,South,Bengaluru,Karnataka,Ultraboost 22,18999,14,265986,47898.82,18.01,Retail Store
+Adidas Bengaluru,RET-1274,2025-06-26,South,Bengaluru,Karnataka,Track Jacket,4999,33,164967,17571.44,10.65,Online
+Adidas Chennai,RET-1275,2025-06-11,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,37,92463,18132.89,19.61,Online
+Adidas Chennai,RET-1276,2025-06-05,South,Chennai,Tamil Nadu,Ultraboost 22,18999,34,645966,73747.2,11.42,Online
+Adidas Bengaluru,RET-1277,2025-06-05,South,Bengaluru,Karnataka,Superstar,8999,46,413954,93434.05,22.57,Online
+Adidas Delhi,RET-1278,2025-06-27,North,Delhi,Delhi,Climacool T-shirt,2499,5,12495,1254.15,10.04,Online
+Adidas Bengaluru,RET-1279,2025-06-02,South,Bengaluru,Karnataka,Track Jacket,4999,33,164967,28745.59,17.43,Retail Store
+Adidas Kolkata,RET-1280,2025-06-10,East,Kolkata,West Bengal,Ultraboost 22,18999,23,436977,76165.2,17.43,Online
+Adidas Delhi,RET-1281,2025-06-25,North,Delhi,Delhi,Sports Cap,999,26,25974,2721.35,10.48,Online
+Adidas Chennai,RET-1282,2025-06-08,South,Chennai,Tamil Nadu,Sports Cap,999,26,25974,5296.23,20.39,Retail Store
+Adidas Mumbai,RET-1283,2025-06-30,West,Mumbai,Maharashtra,Superstar,8999,36,323964,43262.82,13.35,Retail Store
+Adidas Chennai,RET-1284,2025-06-22,South,Chennai,Tamil Nadu,Sports Cap,999,14,13986,2632.22,18.82,Retail Store
+Adidas Bengaluru,RET-1285,2025-06-04,South,Bengaluru,Karnataka,Superstar,8999,17,152983,32850.76,21.47,Retail Store
+Adidas Delhi,RET-1286,2025-06-04,North,Delhi,Delhi,Track Jacket,4999,28,139972,34871.11,24.91,Online
+Adidas Delhi,RET-1287,2025-06-16,North,Delhi,Delhi,Adizero SL,11999,19,227981,29635.42,13.0,Online
+Adidas Kolkata,RET-1288,2025-06-03,East,Kolkata,West Bengal,Adizero SL,11999,7,83993,11346.67,13.51,Retail Store
+Adidas Chennai,RET-1289,2025-06-24,South,Chennai,Tamil Nadu,Superstar,8999,17,152983,27635.73,18.06,Retail Store
+Adidas Bengaluru,RET-1290,2025-06-17,South,Bengaluru,Karnataka,Track Jacket,4999,42,209958,30479.73,14.52,Online
+Adidas Delhi,RET-1291,2025-06-15,North,Delhi,Delhi,Superstar,8999,5,44995,10274.0,22.83,Retail Store
+Adidas Delhi,RET-1292,2025-06-26,North,Delhi,Delhi,Climacool T-shirt,2499,49,122451,24767.76,20.23,Retail Store
+Adidas Kolkata,RET-1293,2025-06-27,East,Kolkata,West Bengal,Adizero SL,11999,18,215982,37345.86,17.29,Retail Store
+Adidas Chennai,RET-1294,2025-06-27,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,46,114954,24448.73,21.27,Online
+Adidas Bengaluru,RET-1295,2025-06-05,South,Bengaluru,Karnataka,Ultraboost 22,18999,9,170991,39085.48,22.86,Retail Store
+Adidas Kolkata,RET-1296,2025-06-17,East,Kolkata,West Bengal,Ultraboost 22,18999,32,607968,123095.31,20.25,Online
+Adidas Mumbai,RET-1297,2025-06-15,West,Mumbai,Maharashtra,Climacool T-shirt,2499,45,112455,14336.14,12.75,Retail Store
+Adidas Kolkata,RET-1298,2025-06-12,East,Kolkata,West Bengal,Climacool T-shirt,2499,25,62475,10916.75,17.47,Online
+Adidas Mumbai,RET-1299,2025-06-08,West,Mumbai,Maharashtra,Climacool T-shirt,2499,6,14994,2477.13,16.52,Online
+Adidas Mumbai,RET-1300,2025-06-25,West,Mumbai,Maharashtra,Track Jacket,4999,18,89982,20914.48,23.24,Online
+Adidas Delhi,RET-1301,2025-06-10,North,Delhi,Delhi,Adizero SL,11999,27,323973,61888.68,19.1,Online
+Adidas Kolkata,RET-1302,2025-06-21,East,Kolkata,West Bengal,Ultraboost 22,18999,32,607968,61588.79,10.13,Online
+Adidas Kolkata,RET-1303,2025-06-29,East,Kolkata,West Bengal,Climacool T-shirt,2499,20,49980,10552.18,21.11,Retail Store
+Adidas Bengaluru,RET-1304,2025-06-03,South,Bengaluru,Karnataka,Adizero SL,11999,14,167986,37981.78,22.61,Online
+Adidas Mumbai,RET-1305,2025-06-08,West,Mumbai,Maharashtra,Ultraboost 22,18999,23,436977,91163.62,20.86,Online
+Adidas Delhi,RET-1306,2025-06-30,North,Delhi,Delhi,Ultraboost 22,18999,37,702963,172859.56,24.59,Online
+Adidas Chennai,RET-1307,2025-06-20,South,Chennai,Tamil Nadu,Sports Cap,999,28,27972,6523.61,23.32,Online
+Adidas Mumbai,RET-1308,2025-06-09,West,Mumbai,Maharashtra,Ultraboost 22,18999,37,702963,118868.09,16.91,Retail Store
+Adidas Kolkata,RET-1309,2025-06-23,East,Kolkata,West Bengal,Track Jacket,4999,9,44991,9818.62,21.82,Retail Store
+Adidas Kolkata,RET-1310,2025-06-19,East,Kolkata,West Bengal,Superstar,8999,33,296967,44430.33,14.96,Retail Store
+Adidas Bengaluru,RET-1311,2025-06-02,South,Bengaluru,Karnataka,Sports Cap,999,25,24975,4088.17,16.37,Online
+Adidas Mumbai,RET-1312,2025-06-12,West,Mumbai,Maharashtra,Adizero SL,11999,22,263978,44116.04,16.71,Retail Store
+Adidas Chennai,RET-1313,2025-06-23,South,Chennai,Tamil Nadu,Superstar,8999,16,143984,15898.3,11.04,Retail Store
+Adidas Mumbai,RET-1314,2025-06-02,West,Mumbai,Maharashtra,Sports Cap,999,35,34965,4401.41,12.59,Online
+Adidas Kolkata,RET-1315,2025-06-01,East,Kolkata,West Bengal,Superstar,8999,18,161982,25445.61,15.71,Retail Store
+Adidas Mumbai,RET-1316,2025-06-08,West,Mumbai,Maharashtra,Sports Cap,999,21,20979,3553.16,16.94,Retail Store
+Adidas Delhi,RET-1317,2025-06-18,North,Delhi,Delhi,Sports Cap,999,21,20979,3376.29,16.09,Online
+Adidas Bengaluru,RET-1318,2025-06-14,South,Bengaluru,Karnataka,Climacool T-shirt,2499,19,47481,11309.97,23.82,Online
+Adidas Delhi,RET-1319,2025-06-17,North,Delhi,Delhi,Track Jacket,4999,15,74985,13203.64,17.61,Retail Store
+Adidas Mumbai,RET-1320,2025-06-14,West,Mumbai,Maharashtra,Ultraboost 22,18999,28,531972,66510.39,12.5,Online
+Adidas Delhi,RET-1321,2025-06-30,North,Delhi,Delhi,Climacool T-shirt,2499,37,92463,16659.69,18.02,Retail Store
+Adidas Bengaluru,RET-1322,2025-06-10,South,Bengaluru,Karnataka,Climacool T-shirt,2499,31,77469,18289.97,23.61,Online
+Adidas Bengaluru,RET-1323,2025-06-30,South,Bengaluru,Karnataka,Adizero SL,11999,47,563953,80546.08,14.28,Retail Store
+Adidas Bengaluru,RET-1324,2025-06-19,South,Bengaluru,Karnataka,Sports Cap,999,18,17982,4018.82,22.35,Online
+Adidas Kolkata,RET-1325,2025-06-21,East,Kolkata,West Bengal,Sports Cap,999,28,27972,4514.84,16.14,Online
+Adidas Delhi,RET-1326,2025-06-24,North,Delhi,Delhi,Ultraboost 22,18999,38,721962,124681.86,17.27,Online
+Adidas Chennai,RET-1327,2025-06-13,South,Chennai,Tamil Nadu,Track Jacket,4999,30,149970,26942.77,17.97,Online
+Adidas Kolkata,RET-1328,2025-06-15,East,Kolkata,West Bengal,Climacool T-shirt,2499,35,87465,17065.5,19.51,Retail Store
+Adidas Mumbai,RET-1329,2025-06-06,West,Mumbai,Maharashtra,Track Jacket,4999,29,144971,20320.02,14.02,Retail Store
+Adidas Delhi,RET-1330,2025-06-18,North,Delhi,Delhi,Climacool T-shirt,2499,34,84966,10528.37,12.39,Retail Store
+Adidas Bengaluru,RET-1331,2025-06-23,South,Bengaluru,Karnataka,Sports Cap,999,8,7992,1905.4,23.84,Online
+Adidas Delhi,RET-1332,2025-06-16,North,Delhi,Delhi,Ultraboost 22,18999,45,854955,211338.92,24.72,Retail Store
+Adidas Chennai,RET-1333,2025-06-03,South,Chennai,Tamil Nadu,Sports Cap,999,42,41958,10434.96,24.87,Retail Store
+Adidas Bengaluru,RET-1334,2025-06-11,South,Bengaluru,Karnataka,Climacool T-shirt,2499,14,34986,3539.3,10.12,Retail Store
+Adidas Delhi,RET-1335,2025-06-26,North,Delhi,Delhi,Sports Cap,999,47,46953,8477.87,18.06,Online
+Adidas Chennai,RET-1336,2025-06-15,South,Chennai,Tamil Nadu,Superstar,8999,22,197978,25722.62,12.99,Online
+Adidas Bengaluru,RET-1337,2025-06-12,South,Bengaluru,Karnataka,Climacool T-shirt,2499,42,104958,16121.06,15.36,Retail Store
+Adidas Chennai,RET-1338,2025-06-17,South,Chennai,Tamil Nadu,Sports Cap,999,44,43956,6454.36,14.68,Retail Store
+Adidas Bengaluru,RET-1339,2025-06-15,South,Bengaluru,Karnataka,Climacool T-shirt,2499,32,79968,18700.19,23.38,Retail Store
+Adidas Delhi,RET-1340,2025-06-26,North,Delhi,Delhi,Superstar,8999,10,89990,18880.42,20.98,Online
+Adidas Mumbai,RET-1341,2025-06-29,West,Mumbai,Maharashtra,Sports Cap,999,49,48951,9502.4,19.41,Online
+Adidas Delhi,RET-1342,2025-06-28,North,Delhi,Delhi,Ultraboost 22,18999,27,512973,72938.63,14.22,Retail Store
+Adidas Delhi,RET-1343,2025-06-15,North,Delhi,Delhi,Superstar,8999,9,80991,9031.45,11.15,Retail Store
+Adidas Delhi,RET-1344,2025-06-21,North,Delhi,Delhi,Track Jacket,4999,27,134973,29097.54,21.56,Retail Store
+Adidas Bengaluru,RET-1345,2025-06-20,South,Bengaluru,Karnataka,Sports Cap,999,28,27972,2857.0,10.21,Online
+Adidas Bengaluru,RET-1346,2025-06-19,South,Bengaluru,Karnataka,Superstar,8999,24,215976,45067.61,20.87,Online
+Adidas Bengaluru,RET-1347,2025-06-19,South,Bengaluru,Karnataka,Climacool T-shirt,2499,46,114954,24893.74,21.66,Retail Store
+Adidas Delhi,RET-1348,2025-06-25,North,Delhi,Delhi,Sports Cap,999,5,4995,748.59,14.99,Retail Store
+Adidas Bengaluru,RET-1349,2025-06-06,South,Bengaluru,Karnataka,Adizero SL,11999,29,347971,79575.99,22.87,Retail Store
+Adidas Chennai,RET-1350,2025-06-05,South,Chennai,Tamil Nadu,Track Jacket,4999,12,59988,13376.58,22.3,Online
+Adidas Mumbai,RET-1351,2025-06-22,West,Mumbai,Maharashtra,Climacool T-shirt,2499,26,64974,10104.9,15.55,Retail Store
+Adidas Bengaluru,RET-1352,2025-06-27,South,Bengaluru,Karnataka,Climacool T-shirt,2499,26,64974,15196.01,23.39,Retail Store
+Adidas Mumbai,RET-1353,2025-06-01,West,Mumbai,Maharashtra,Sports Cap,999,34,33966,5621.04,16.55,Retail Store
+Adidas Bengaluru,RET-1354,2025-06-21,South,Bengaluru,Karnataka,Climacool T-shirt,2499,34,84966,12311.95,14.49,Retail Store
+Adidas Chennai,RET-1355,2025-06-02,South,Chennai,Tamil Nadu,Track Jacket,4999,42,209958,43656.06,20.79,Online
+Adidas Kolkata,RET-1356,2025-06-10,East,Kolkata,West Bengal,Track Jacket,4999,13,64987,15944.44,24.53,Online
+Adidas Mumbai,RET-1357,2025-06-05,West,Mumbai,Maharashtra,Superstar,8999,39,350961,76318.2,21.75,Retail Store
+Adidas Kolkata,RET-1358,2025-06-07,East,Kolkata,West Bengal,Adizero SL,11999,22,263978,52893.48,20.04,Online
+Adidas Mumbai,RET-1359,2025-06-10,West,Mumbai,Maharashtra,Sports Cap,999,47,46953,9939.03,21.17,Online
+Adidas Bengaluru,RET-1360,2025-06-17,South,Bengaluru,Karnataka,Ultraboost 22,18999,20,379980,55216.21,14.53,Online
+Adidas Mumbai,RET-1361,2025-06-12,West,Mumbai,Maharashtra,Track Jacket,4999,15,74985,16475.56,21.97,Retail Store
+Adidas Delhi,RET-1362,2025-06-07,North,Delhi,Delhi,Superstar,8999,33,296967,55451.05,18.67,Online
+Adidas Bengaluru,RET-1363,2025-06-07,South,Bengaluru,Karnataka,Superstar,8999,12,107988,23415.01,21.68,Retail Store
+Adidas Mumbai,RET-1364,2025-06-02,West,Mumbai,Maharashtra,Superstar,8999,23,206977,32246.91,15.58,Online
+Adidas Chennai,RET-1365,2025-06-08,South,Chennai,Tamil Nadu,Ultraboost 22,18999,29,550971,126444.75,22.95,Retail Store
+Adidas Kolkata,RET-1366,2025-06-09,East,Kolkata,West Bengal,Sports Cap,999,19,18981,4093.19,21.56,Online
+Adidas Kolkata,RET-1367,2025-06-21,East,Kolkata,West Bengal,Adizero SL,11999,24,287976,38304.14,13.3,Online
+Adidas Delhi,RET-1368,2025-06-28,North,Delhi,Delhi,Climacool T-shirt,2499,8,19992,4063.29,20.32,Online
+Adidas Kolkata,RET-1369,2025-06-14,East,Kolkata,West Bengal,Adizero SL,11999,19,227981,35037.4,15.37,Online
+Adidas Mumbai,RET-1370,2025-06-23,West,Mumbai,Maharashtra,Ultraboost 22,18999,37,702963,126547.59,18.0,Retail Store
+Adidas Bengaluru,RET-1371,2025-06-01,South,Bengaluru,Karnataka,Adizero SL,11999,44,527956,96105.35,18.2,Online
+Adidas Delhi,RET-1372,2025-06-10,North,Delhi,Delhi,Climacool T-shirt,2499,30,74970,8757.97,11.68,Retail Store
+Adidas Mumbai,RET-1373,2025-06-28,West,Mumbai,Maharashtra,Climacool T-shirt,2499,47,117453,27123.99,23.09,Retail Store
+Adidas Mumbai,RET-1374,2025-06-21,West,Mumbai,Maharashtra,Adizero SL,11999,35,419965,100066.79,23.83,Retail Store
+Adidas Delhi,RET-1375,2025-06-06,North,Delhi,Delhi,Track Jacket,4999,35,174965,29643.33,16.94,Online
+Adidas Bengaluru,RET-1376,2025-06-13,South,Bengaluru,Karnataka,Superstar,8999,46,413954,101499.97,24.52,Retail Store
+Adidas Bengaluru,RET-1377,2025-06-29,South,Bengaluru,Karnataka,Sports Cap,999,44,43956,8753.61,19.91,Online
+Adidas Bengaluru,RET-1378,2025-06-13,South,Bengaluru,Karnataka,Sports Cap,999,32,31968,5070.7,15.86,Retail Store
+Adidas Delhi,RET-1379,2025-06-18,North,Delhi,Delhi,Sports Cap,999,22,21978,5088.9,23.15,Retail Store
+Adidas Bengaluru,RET-1380,2025-06-26,South,Bengaluru,Karnataka,Sports Cap,999,35,34965,4230.92,12.1,Online
+Adidas Chennai,RET-1381,2025-06-04,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,21,52479,13046.72,24.86,Retail Store
+Adidas Bengaluru,RET-1382,2025-06-25,South,Bengaluru,Karnataka,Track Jacket,4999,21,104979,13533.23,12.89,Online
+Adidas Delhi,RET-1383,2025-06-21,North,Delhi,Delhi,Ultraboost 22,18999,48,911952,189830.33,20.82,Retail Store
+Adidas Chennai,RET-1384,2025-06-19,South,Chennai,Tamil Nadu,Track Jacket,4999,31,154969,26829.44,17.31,Retail Store
+Adidas Bengaluru,RET-1385,2025-06-07,South,Bengaluru,Karnataka,Adizero SL,11999,33,395967,88258.49,22.29,Online
+Adidas Delhi,RET-1386,2025-06-29,North,Delhi,Delhi,Superstar,8999,42,377958,87984.17,23.28,Retail Store
+Adidas Bengaluru,RET-1387,2025-06-01,South,Bengaluru,Karnataka,Ultraboost 22,18999,17,322983,61064.86,18.91,Retail Store
+Adidas Kolkata,RET-1388,2025-06-02,East,Kolkata,West Bengal,Track Jacket,4999,28,139972,14209.09,10.15,Online
+Adidas Mumbai,RET-1389,2025-06-23,West,Mumbai,Maharashtra,Adizero SL,11999,13,155987,36582.99,23.45,Online
+Adidas Chennai,RET-1390,2025-06-11,South,Chennai,Tamil Nadu,Adizero SL,11999,35,419965,67247.95,16.01,Retail Store
+Adidas Kolkata,RET-1391,2025-06-13,East,Kolkata,West Bengal,Ultraboost 22,18999,21,398979,48840.19,12.24,Retail Store
+Adidas Delhi,RET-1392,2025-06-10,North,Delhi,Delhi,Ultraboost 22,18999,13,246987,43189.51,17.49,Retail Store
+Adidas Mumbai,RET-1393,2025-06-08,West,Mumbai,Maharashtra,Ultraboost 22,18999,37,702963,111538.73,15.87,Retail Store
+Adidas Delhi,RET-1394,2025-06-26,North,Delhi,Delhi,Adizero SL,11999,15,179985,31496.29,17.5,Online
+Adidas Bengaluru,RET-1395,2025-06-19,South,Bengaluru,Karnataka,Track Jacket,4999,38,189962,24646.85,12.97,Online
+Adidas Kolkata,RET-1396,2025-06-07,East,Kolkata,West Bengal,Climacool T-shirt,2499,45,112455,27970.04,24.87,Retail Store
+Adidas Chennai,RET-1397,2025-06-23,South,Chennai,Tamil Nadu,Superstar,8999,17,152983,36435.59,23.82,Retail Store
+Adidas Bengaluru,RET-1398,2025-06-24,South,Bengaluru,Karnataka,Ultraboost 22,18999,48,911952,115022.14,12.61,Retail Store
+Adidas Chennai,RET-1399,2025-06-06,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,49,122451,23474.69,19.17,Online
+Adidas Mumbai,RET-1400,2025-06-09,West,Mumbai,Maharashtra,Ultraboost 22,18999,6,113994,26456.97,23.21,Online
+Adidas Mumbai,RET-1401,2025-06-28,West,Mumbai,Maharashtra,Sports Cap,999,45,44955,8054.14,17.92,Retail Store
+Adidas Bengaluru,RET-1402,2025-06-08,South,Bengaluru,Karnataka,Ultraboost 22,18999,22,417978,71435.02,17.09,Online
+Adidas Delhi,RET-1403,2025-06-19,North,Delhi,Delhi,Sports Cap,999,23,22977,3120.02,13.58,Retail Store
+Adidas Kolkata,RET-1404,2025-06-05,East,Kolkata,West Bengal,Track Jacket,4999,40,199960,47613.11,23.81,Retail Store
+Adidas Delhi,RET-1405,2025-06-10,North,Delhi,Delhi,Sports Cap,999,8,7992,1558.23,19.5,Online
+Adidas Delhi,RET-1406,2025-06-02,North,Delhi,Delhi,Track Jacket,4999,38,189962,43211.22,22.75,Retail Store
+Adidas Mumbai,RET-1407,2025-06-20,West,Mumbai,Maharashtra,Climacool T-shirt,2499,40,99960,16214.41,16.22,Online
+Adidas Delhi,RET-1408,2025-06-13,North,Delhi,Delhi,Sports Cap,999,35,34965,8251.51,23.6,Online
+Adidas Delhi,RET-1409,2025-06-24,North,Delhi,Delhi,Adizero SL,11999,36,431964,80449.43,18.62,Online
+Adidas Mumbai,RET-1410,2025-06-10,West,Mumbai,Maharashtra,Superstar,8999,45,404955,61603.52,15.21,Online
+Adidas Delhi,RET-1411,2025-06-05,North,Delhi,Delhi,Superstar,8999,27,242973,34493.86,14.2,Retail Store
+Adidas Mumbai,RET-1412,2025-06-10,West,Mumbai,Maharashtra,Track Jacket,4999,11,54989,8003.49,14.55,Online
+Adidas Chennai,RET-1413,2025-06-07,South,Chennai,Tamil Nadu,Sports Cap,999,18,17982,1991.73,11.08,Retail Store
+Adidas Delhi,RET-1414,2025-06-05,North,Delhi,Delhi,Sports Cap,999,34,33966,3677.53,10.83,Online
+Adidas Mumbai,RET-1415,2025-06-13,West,Mumbai,Maharashtra,Ultraboost 22,18999,17,322983,41746.33,12.93,Online
+Adidas Kolkata,RET-1416,2025-06-08,East,Kolkata,West Bengal,Climacool T-shirt,2499,14,34986,7083.56,20.25,Retail Store
+Adidas Bengaluru,RET-1417,2025-06-27,South,Bengaluru,Karnataka,Adizero SL,11999,7,83993,15472.51,18.42,Retail Store
+Adidas Delhi,RET-1418,2025-06-20,North,Delhi,Delhi,Track Jacket,4999,20,99980,23084.04,23.09,Retail Store
+Adidas Kolkata,RET-1419,2025-06-19,East,Kolkata,West Bengal,Superstar,8999,46,413954,71034.08,17.16,Retail Store
+Adidas Bengaluru,RET-1420,2025-06-19,South,Bengaluru,Karnataka,Climacool T-shirt,2499,9,22491,2358.53,10.49,Retail Store
+Adidas Mumbai,RET-1421,2025-06-27,West,Mumbai,Maharashtra,Superstar,8999,16,143984,15339.58,10.65,Online
+Adidas Bengaluru,RET-1422,2025-06-05,South,Bengaluru,Karnataka,Ultraboost 22,18999,11,208989,21743.04,10.4,Online
+Adidas Bengaluru,RET-1423,2025-06-30,South,Bengaluru,Karnataka,Climacool T-shirt,2499,40,99960,22626.03,22.64,Online
+Adidas Delhi,RET-1424,2025-06-17,North,Delhi,Delhi,Adizero SL,11999,16,191984,20462.29,10.66,Retail Store
+Adidas Bengaluru,RET-1425,2025-06-27,South,Bengaluru,Karnataka,Adizero SL,11999,6,71994,12874.08,17.88,Online
+Adidas Kolkata,RET-1426,2025-06-04,East,Kolkata,West Bengal,Track Jacket,4999,30,149970,20443.55,13.63,Online
+Adidas Chennai,RET-1427,2025-06-22,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,22,54978,8639.18,15.71,Online
+Adidas Delhi,RET-1428,2025-06-07,North,Delhi,Delhi,Adizero SL,11999,47,563953,138287.66,24.52,Online
+Adidas Bengaluru,RET-1429,2025-06-03,South,Bengaluru,Karnataka,Ultraboost 22,18999,39,740961,102802.18,13.87,Online
+Adidas Chennai,RET-1430,2025-06-10,South,Chennai,Tamil Nadu,Superstar,8999,31,278969,54039.85,19.37,Online
+Adidas Bengaluru,RET-1431,2025-06-08,South,Bengaluru,Karnataka,Track Jacket,4999,19,94981,15046.43,15.84,Retail Store
+Adidas Bengaluru,RET-1432,2025-06-06,South,Bengaluru,Karnataka,Adizero SL,11999,26,311974,33431.17,10.72,Online
+Adidas Bengaluru,RET-1433,2025-06-24,South,Bengaluru,Karnataka,Adizero SL,11999,11,131989,26579.35,20.14,Retail Store
+Adidas Chennai,RET-1434,2025-06-19,South,Chennai,Tamil Nadu,Superstar,8999,13,116987,19487.17,16.66,Retail Store
+Adidas Bengaluru,RET-1435,2025-06-15,South,Bengaluru,Karnataka,Sports Cap,999,50,49950,11913.28,23.85,Retail Store
+Adidas Mumbai,RET-1436,2025-06-27,West,Mumbai,Maharashtra,Ultraboost 22,18999,18,341982,65250.7,19.08,Retail Store
+Adidas Mumbai,RET-1437,2025-06-02,West,Mumbai,Maharashtra,Climacool T-shirt,2499,41,102459,21775.65,21.25,Retail Store
+Adidas Mumbai,RET-1438,2025-06-06,West,Mumbai,Maharashtra,Sports Cap,999,49,48951,9624.39,19.66,Retail Store
+Adidas Mumbai,RET-1439,2025-06-14,West,Mumbai,Maharashtra,Adizero SL,11999,20,239980,52763.36,21.99,Online
+Adidas Mumbai,RET-1440,2025-06-29,West,Mumbai,Maharashtra,Ultraboost 22,18999,27,512973,123135.23,24.0,Retail Store
+Adidas Mumbai,RET-1441,2025-06-03,West,Mumbai,Maharashtra,Superstar,8999,36,323964,34666.98,10.7,Retail Store
+Adidas Mumbai,RET-1442,2025-06-30,West,Mumbai,Maharashtra,Sports Cap,999,17,16983,3554.47,20.93,Online
+Adidas Delhi,RET-1443,2025-06-13,North,Delhi,Delhi,Superstar,8999,32,287968,42873.96,14.89,Online
+Adidas Mumbai,RET-1444,2025-06-21,West,Mumbai,Maharashtra,Climacool T-shirt,2499,30,74970,8083.14,10.78,Online
+Adidas Chennai,RET-1445,2025-06-10,South,Chennai,Tamil Nadu,Superstar,8999,43,386957,93330.75,24.12,Retail Store
+Adidas Mumbai,RET-1446,2025-06-13,West,Mumbai,Maharashtra,Climacool T-shirt,2499,42,104958,23276.76,22.18,Retail Store
+Adidas Bengaluru,RET-1447,2025-06-15,South,Bengaluru,Karnataka,Adizero SL,11999,17,203983,40496.2,19.85,Retail Store
+Adidas Delhi,RET-1448,2025-06-13,North,Delhi,Delhi,Adizero SL,11999,25,299975,54384.06,18.13,Retail Store
+Adidas Mumbai,RET-1449,2025-06-01,West,Mumbai,Maharashtra,Climacool T-shirt,2499,43,107457,20359.23,18.95,Retail Store
+Adidas Kolkata,RET-1450,2025-06-26,East,Kolkata,West Bengal,Sports Cap,999,30,29970,4061.13,13.55,Online
+Adidas Mumbai,RET-1451,2025-06-17,West,Mumbai,Maharashtra,Superstar,8999,45,404955,59723.7,14.75,Retail Store
+Adidas Delhi,RET-1452,2025-06-14,North,Delhi,Delhi,Ultraboost 22,18999,48,911952,145756.78,15.98,Online
+Adidas Chennai,RET-1453,2025-06-14,South,Chennai,Tamil Nadu,Adizero SL,11999,23,275977,61179.71,22.17,Retail Store
+Adidas Chennai,RET-1454,2025-06-22,South,Chennai,Tamil Nadu,Adizero SL,11999,33,395967,85481.14,21.59,Retail Store
+Adidas Kolkata,RET-1455,2025-06-10,East,Kolkata,West Bengal,Sports Cap,999,26,25974,3066.95,11.81,Online
+Adidas Bengaluru,RET-1456,2025-06-22,South,Bengaluru,Karnataka,Track Jacket,4999,38,189962,19752.22,10.4,Retail Store
+Adidas Delhi,RET-1457,2025-06-04,North,Delhi,Delhi,Ultraboost 22,18999,13,246987,31636.18,12.81,Online
+Adidas Mumbai,RET-1458,2025-06-03,West,Mumbai,Maharashtra,Sports Cap,999,41,40959,9746.15,23.79,Online
+Adidas Chennai,RET-1459,2025-06-23,South,Chennai,Tamil Nadu,Adizero SL,11999,20,239980,25475.74,10.62,Retail Store
+Adidas Chennai,RET-1460,2025-06-22,South,Chennai,Tamil Nadu,Superstar,8999,16,143984,30467.41,21.16,Retail Store
+Adidas Delhi,RET-1461,2025-06-08,North,Delhi,Delhi,Track Jacket,4999,48,239952,43799.46,18.25,Retail Store
+Adidas Kolkata,RET-1462,2025-06-14,East,Kolkata,West Bengal,Climacool T-shirt,2499,41,102459,21293.03,20.78,Online
+Adidas Chennai,RET-1463,2025-06-29,South,Chennai,Tamil Nadu,Sports Cap,999,18,17982,2363.55,13.14,Retail Store
+Adidas Kolkata,RET-1464,2025-06-20,East,Kolkata,West Bengal,Track Jacket,4999,28,139972,22342.34,15.96,Online
+Adidas Mumbai,RET-1465,2025-06-29,West,Mumbai,Maharashtra,Ultraboost 22,18999,32,607968,92716.78,15.25,Online
+Adidas Bengaluru,RET-1466,2025-06-23,South,Bengaluru,Karnataka,Superstar,8999,24,215976,29482.1,13.65,Retail Store
+Adidas Mumbai,RET-1467,2025-06-05,West,Mumbai,Maharashtra,Ultraboost 22,18999,26,493974,96339.0,19.5,Online
+Adidas Mumbai,RET-1468,2025-06-10,West,Mumbai,Maharashtra,Track Jacket,4999,45,224955,47604.8,21.16,Online
+Adidas Delhi,RET-1469,2025-06-11,North,Delhi,Delhi,Adizero SL,11999,13,155987,28702.63,18.4,Online
+Adidas Delhi,RET-1470,2025-06-19,North,Delhi,Delhi,Track Jacket,4999,25,124975,20624.18,16.5,Retail Store
+Adidas Delhi,RET-1471,2025-06-27,North,Delhi,Delhi,Superstar,8999,33,296967,40633.35,13.68,Online
+Adidas Delhi,RET-1472,2025-06-22,North,Delhi,Delhi,Track Jacket,4999,35,174965,37682.67,21.54,Online
+Adidas Kolkata,RET-1473,2025-06-08,East,Kolkata,West Bengal,Sports Cap,999,47,46953,7227.35,15.39,Retail Store
+Adidas Delhi,RET-1474,2025-06-14,North,Delhi,Delhi,Climacool T-shirt,2499,28,69972,9226.18,13.19,Online
+Adidas Kolkata,RET-1475,2025-06-13,East,Kolkata,West Bengal,Track Jacket,4999,32,159968,21604.33,13.51,Online
+Adidas Bengaluru,RET-1476,2025-06-12,South,Bengaluru,Karnataka,Adizero SL,11999,7,83993,16665.84,19.84,Retail Store
+Adidas Kolkata,RET-1477,2025-06-27,East,Kolkata,West Bengal,Sports Cap,999,28,27972,3261.31,11.66,Retail Store
+Adidas Delhi,RET-1478,2025-06-09,North,Delhi,Delhi,Adizero SL,11999,20,239980,45727.62,19.05,Retail Store
+Adidas Chennai,RET-1479,2025-06-10,South,Chennai,Tamil Nadu,Superstar,8999,11,98989,15002.98,15.16,Retail Store
+Adidas Chennai,RET-1480,2025-06-19,South,Chennai,Tamil Nadu,Superstar,8999,25,224975,23333.11,10.37,Online
+Adidas Chennai,RET-1481,2025-06-18,South,Chennai,Tamil Nadu,Superstar,8999,50,449950,86622.96,19.25,Online
+Adidas Mumbai,RET-1482,2025-06-13,West,Mumbai,Maharashtra,Climacool T-shirt,2499,17,42483,7901.89,18.6,Retail Store
+Adidas Bengaluru,RET-1483,2025-06-02,South,Bengaluru,Karnataka,Track Jacket,4999,46,229954,44791.23,19.48,Online
+Adidas Mumbai,RET-1484,2025-06-24,West,Mumbai,Maharashtra,Ultraboost 22,18999,10,189990,33809.2,17.8,Retail Store
+Adidas Delhi,RET-1485,2025-06-05,North,Delhi,Delhi,Climacool T-shirt,2499,19,47481,10566.82,22.25,Retail Store
+Adidas Bengaluru,RET-1486,2025-06-30,South,Bengaluru,Karnataka,Ultraboost 22,18999,37,702963,154254.04,21.94,Online
+Adidas Mumbai,RET-1487,2025-06-02,West,Mumbai,Maharashtra,Climacool T-shirt,2499,22,54978,10209.62,18.57,Online
+Adidas Delhi,RET-1488,2025-06-18,North,Delhi,Delhi,Sports Cap,999,16,15984,1753.84,10.97,Online
+Adidas Kolkata,RET-1489,2025-06-27,East,Kolkata,West Bengal,Adizero SL,11999,21,251979,54936.02,21.8,Online
+Adidas Kolkata,RET-1490,2025-06-08,East,Kolkata,West Bengal,Track Jacket,4999,29,144971,23183.38,15.99,Retail Store
+Adidas Mumbai,RET-1491,2025-06-25,West,Mumbai,Maharashtra,Climacool T-shirt,2499,35,87465,17478.34,19.98,Retail Store
+Adidas Bengaluru,RET-1492,2025-06-23,South,Bengaluru,Karnataka,Adizero SL,11999,34,407966,63330.44,15.52,Online
+Adidas Bengaluru,RET-1493,2025-06-06,South,Bengaluru,Karnataka,Sports Cap,999,16,15984,3813.8,23.86,Retail Store
+Adidas Chennai,RET-1494,2025-06-16,South,Chennai,Tamil Nadu,Track Jacket,4999,38,189962,24575.7,12.94,Online
+Adidas Chennai,RET-1495,2025-06-21,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,35,87465,12429.84,14.21,Online
+Adidas Delhi,RET-1496,2025-06-22,North,Delhi,Delhi,Ultraboost 22,18999,39,740961,124468.48,16.8,Online
+Adidas Kolkata,RET-1497,2025-06-30,East,Kolkata,West Bengal,Superstar,8999,21,188979,42270.23,22.37,Online
+Adidas Kolkata,RET-1498,2025-06-04,East,Kolkata,West Bengal,Adizero SL,11999,28,335972,81794.54,24.35,Online
+Adidas Bengaluru,RET-1499,2025-06-12,South,Bengaluru,Karnataka,Track Jacket,4999,31,154969,30037.47,19.38,Retail Store
+Adidas Mumbai,RET-1500,2025-06-21,West,Mumbai,Maharashtra,Superstar,8999,8,71992,7479.78,10.39,Online
+Adidas Delhi,RET-1501,2025-06-07,North,Delhi,Delhi,Track Jacket,4999,45,224955,30000.38,13.34,Retail Store
+Adidas Delhi,RET-1502,2025-06-22,North,Delhi,Delhi,Track Jacket,4999,37,184963,25992.3,14.05,Online
+Adidas Delhi,RET-1503,2025-06-20,North,Delhi,Delhi,Sports Cap,999,23,22977,5679.09,24.72,Retail Store
+Adidas Kolkata,RET-1504,2025-06-16,East,Kolkata,West Bengal,Ultraboost 22,18999,34,645966,155560.71,24.08,Online
+Adidas Mumbai,RET-1505,2025-06-22,West,Mumbai,Maharashtra,Sports Cap,999,26,25974,3158.03,12.16,Retail Store
+Adidas Chennai,RET-1506,2025-06-21,South,Chennai,Tamil Nadu,Adizero SL,11999,47,563953,88869.45,15.76,Retail Store
+Adidas Delhi,RET-1507,2025-06-14,North,Delhi,Delhi,Adizero SL,11999,26,311974,34395.1,11.02,Retail Store
+Adidas Bengaluru,RET-1508,2025-06-25,South,Bengaluru,Karnataka,Adizero SL,11999,17,203983,31804.7,15.59,Retail Store
+Adidas Bengaluru,RET-1509,2025-06-24,South,Bengaluru,Karnataka,Sports Cap,999,48,47952,11302.24,23.57,Online
+Adidas Chennai,RET-1510,2025-06-03,South,Chennai,Tamil Nadu,Superstar,8999,20,179980,28185.68,15.66,Retail Store
+Adidas Chennai,RET-1511,2025-06-13,South,Chennai,Tamil Nadu,Superstar,8999,37,332963,53965.04,16.21,Online
+Adidas Bengaluru,RET-1512,2025-06-28,South,Bengaluru,Karnataka,Ultraboost 22,18999,45,854955,116392.78,13.61,Retail Store
+Adidas Chennai,RET-1513,2025-06-13,South,Chennai,Tamil Nadu,Superstar,8999,25,224975,27368.76,12.17,Online
+Adidas Delhi,RET-1514,2025-06-20,North,Delhi,Delhi,Sports Cap,999,45,44955,8704.15,19.36,Online
+Adidas Kolkata,RET-1515,2025-06-19,East,Kolkata,West Bengal,Adizero SL,11999,11,131989,19141.33,14.5,Retail Store
+Adidas Kolkata,RET-1516,2025-06-23,East,Kolkata,West Bengal,Ultraboost 22,18999,43,816957,131523.0,16.1,Online
+Adidas Bengaluru,RET-1517,2025-06-10,South,Bengaluru,Karnataka,Track Jacket,4999,42,209958,28479.53,13.56,Online
+Adidas Delhi,RET-1518,2025-06-24,North,Delhi,Delhi,Adizero SL,11999,11,131989,25263.71,19.14,Retail Store
+Adidas Mumbai,RET-1519,2025-06-01,West,Mumbai,Maharashtra,Sports Cap,999,8,7992,1361.09,17.03,Retail Store
+Adidas Kolkata,RET-1520,2025-06-25,East,Kolkata,West Bengal,Ultraboost 22,18999,42,797958,113585.41,14.23,Online
+Adidas Bengaluru,RET-1521,2025-06-29,South,Bengaluru,Karnataka,Adizero SL,11999,47,563953,116563.89,20.67,Online
+Adidas Bengaluru,RET-1522,2025-06-28,South,Bengaluru,Karnataka,Climacool T-shirt,2499,7,17493,1776.93,10.16,Retail Store
+Adidas Mumbai,RET-1523,2025-06-29,West,Mumbai,Maharashtra,Climacool T-shirt,2499,28,69972,8014.42,11.45,Retail Store
+Adidas Bengaluru,RET-1524,2025-06-13,South,Bengaluru,Karnataka,Adizero SL,11999,41,491959,95047.59,19.32,Retail Store
+Adidas Bengaluru,RET-1525,2025-06-05,South,Bengaluru,Karnataka,Superstar,8999,32,287968,30360.69,10.54,Online
+Adidas Delhi,RET-1526,2025-06-15,North,Delhi,Delhi,Climacool T-shirt,2499,10,24990,5737.07,22.96,Retail Store
+Adidas Kolkata,RET-1527,2025-06-30,East,Kolkata,West Bengal,Superstar,8999,31,278969,40475.78,14.51,Retail Store
+Adidas Delhi,RET-1528,2025-06-27,North,Delhi,Delhi,Ultraboost 22,18999,21,398979,72907.85,18.27,Online
+Adidas Kolkata,RET-1529,2025-06-02,East,Kolkata,West Bengal,Ultraboost 22,18999,26,493974,84647.89,17.14,Online
+Adidas Bengaluru,RET-1530,2025-06-23,South,Bengaluru,Karnataka,Climacool T-shirt,2499,13,32487,7109.46,21.88,Retail Store
+Adidas Bengaluru,RET-1531,2025-06-15,South,Bengaluru,Karnataka,Track Jacket,4999,37,184963,35648.73,19.27,Online
+Adidas Mumbai,RET-1532,2025-06-15,West,Mumbai,Maharashtra,Track Jacket,4999,39,194961,38943.77,19.98,Online
+Adidas Bengaluru,RET-1533,2025-06-29,South,Bengaluru,Karnataka,Superstar,8999,46,413954,84714.55,20.46,Online
+Adidas Kolkata,RET-1534,2025-06-23,East,Kolkata,West Bengal,Superstar,8999,23,206977,35810.77,17.3,Online
+Adidas Chennai,RET-1535,2025-06-06,South,Chennai,Tamil Nadu,Adizero SL,11999,22,263978,64494.35,24.43,Retail Store
+Adidas Delhi,RET-1536,2025-06-12,North,Delhi,Delhi,Adizero SL,11999,49,587951,131483.54,22.36,Retail Store
+Adidas Bengaluru,RET-1537,2025-06-16,South,Bengaluru,Karnataka,Track Jacket,4999,7,34993,3638.69,10.4,Online
+Adidas Delhi,RET-1538,2025-06-09,North,Delhi,Delhi,Sports Cap,999,29,28971,3539.81,12.22,Retail Store
+Adidas Chennai,RET-1539,2025-06-04,South,Chennai,Tamil Nadu,Track Jacket,4999,21,104979,16078.3,15.32,Online
+Adidas Kolkata,RET-1540,2025-06-13,East,Kolkata,West Bengal,Superstar,8999,42,377958,48178.04,12.75,Online
+Adidas Mumbai,RET-1541,2025-06-28,West,Mumbai,Maharashtra,Ultraboost 22,18999,16,303984,55542.77,18.27,Online
+Adidas Kolkata,RET-1542,2025-06-10,East,Kolkata,West Bengal,Track Jacket,4999,40,199960,44092.67,22.05,Online
+Adidas Delhi,RET-1543,2025-06-21,North,Delhi,Delhi,Adizero SL,11999,47,563953,76351.26,13.54,Retail Store
+Adidas Mumbai,RET-1544,2025-06-22,West,Mumbai,Maharashtra,Ultraboost 22,18999,39,740961,115171.7,15.54,Online
+Adidas Delhi,RET-1545,2025-06-28,North,Delhi,Delhi,Track Jacket,4999,38,189962,21627.56,11.39,Online
+Adidas Delhi,RET-1546,2025-06-27,North,Delhi,Delhi,Superstar,8999,21,188979,24817.13,13.13,Online
+Adidas Delhi,RET-1547,2025-06-10,North,Delhi,Delhi,Sports Cap,999,41,40959,7813.51,19.08,Online
+Adidas Chennai,RET-1548,2025-06-10,South,Chennai,Tamil Nadu,Sports Cap,999,50,49950,9174.62,18.37,Retail Store
+Adidas Delhi,RET-1549,2025-06-10,North,Delhi,Delhi,Ultraboost 22,18999,42,797958,105758.43,13.25,Retail Store
+Adidas Mumbai,RET-1550,2025-06-26,West,Mumbai,Maharashtra,Ultraboost 22,18999,20,379980,56068.95,14.76,Retail Store
+Adidas Mumbai,RET-1551,2025-06-06,West,Mumbai,Maharashtra,Track Jacket,4999,5,24995,6247.92,25.0,Online
+Adidas Delhi,RET-1552,2025-06-28,North,Delhi,Delhi,Track Jacket,4999,28,139972,30459.75,21.76,Retail Store
+Adidas Chennai,RET-1553,2025-06-15,South,Chennai,Tamil Nadu,Sports Cap,999,12,11988,2305.12,19.23,Online
+Adidas Delhi,RET-1554,2025-06-29,North,Delhi,Delhi,Superstar,8999,9,80991,8392.6,10.36,Retail Store
+Adidas Mumbai,RET-1555,2025-06-15,West,Mumbai,Maharashtra,Adizero SL,11999,45,539955,91313.0,16.91,Retail Store
+Adidas Delhi,RET-1556,2025-06-11,North,Delhi,Delhi,Adizero SL,11999,35,419965,42784.83,10.19,Retail Store
+Adidas Mumbai,RET-1557,2025-06-09,West,Mumbai,Maharashtra,Sports Cap,999,8,7992,1815.18,22.71,Online
+Adidas Mumbai,RET-1558,2025-06-09,West,Mumbai,Maharashtra,Climacool T-shirt,2499,50,124950,16841.91,13.48,Online
+Adidas Chennai,RET-1559,2025-06-20,South,Chennai,Tamil Nadu,Track Jacket,4999,35,174965,37614.8,21.5,Retail Store
+Adidas Kolkata,RET-1560,2025-06-07,East,Kolkata,West Bengal,Climacool T-shirt,2499,21,52479,7843.0,14.95,Retail Store
+Adidas Bengaluru,RET-1561,2025-06-05,South,Bengaluru,Karnataka,Track Jacket,4999,35,174965,28634.01,16.37,Online
+Adidas Mumbai,RET-1562,2025-06-29,West,Mumbai,Maharashtra,Climacool T-shirt,2499,41,102459,17543.88,17.12,Retail Store
+Adidas Kolkata,RET-1563,2025-06-30,East,Kolkata,West Bengal,Ultraboost 22,18999,19,360981,82363.2,22.82,Retail Store
+Adidas Mumbai,RET-1564,2025-06-09,West,Mumbai,Maharashtra,Ultraboost 22,18999,38,721962,92598.66,12.83,Online
+Adidas Delhi,RET-1565,2025-06-10,North,Delhi,Delhi,Superstar,8999,24,215976,27759.93,12.85,Online
+Adidas Mumbai,RET-1566,2025-06-28,West,Mumbai,Maharashtra,Superstar,8999,17,152983,34564.32,22.59,Retail Store
+Adidas Bengaluru,RET-1567,2025-06-16,South,Bengaluru,Karnataka,Ultraboost 22,18999,34,645966,101946.03,15.78,Online
+Adidas Bengaluru,RET-1568,2025-06-27,South,Bengaluru,Karnataka,Climacool T-shirt,2499,36,89964,12089.14,13.44,Online
+Adidas Delhi,RET-1569,2025-06-15,North,Delhi,Delhi,Track Jacket,4999,36,179964,25280.2,14.05,Retail Store
+Adidas Mumbai,RET-1570,2025-06-28,West,Mumbai,Maharashtra,Ultraboost 22,18999,49,930951,139883.23,15.03,Online
+Adidas Kolkata,RET-1571,2025-06-06,East,Kolkata,West Bengal,Sports Cap,999,30,29970,7408.64,24.72,Online
+Adidas Chennai,RET-1572,2025-06-05,South,Chennai,Tamil Nadu,Ultraboost 22,18999,39,740961,151581.31,20.46,Online
+Adidas Mumbai,RET-1573,2025-06-27,West,Mumbai,Maharashtra,Ultraboost 22,18999,47,892953,159534.78,17.87,Retail Store
+Adidas Delhi,RET-1574,2025-06-24,North,Delhi,Delhi,Adizero SL,11999,18,215982,27229.99,12.61,Retail Store
+Adidas Mumbai,RET-1575,2025-06-26,West,Mumbai,Maharashtra,Climacool T-shirt,2499,7,17493,4120.69,23.56,Retail Store
+Adidas Kolkata,RET-1576,2025-06-11,East,Kolkata,West Bengal,Sports Cap,999,27,26973,3634.81,13.48,Retail Store
+Adidas Bengaluru,RET-1577,2025-06-10,South,Bengaluru,Karnataka,Adizero SL,11999,27,323973,69786.17,21.54,Online
+Adidas Delhi,RET-1578,2025-06-28,North,Delhi,Delhi,Sports Cap,999,23,22977,3992.05,17.37,Retail Store
+Adidas Kolkata,RET-1579,2025-06-28,East,Kolkata,West Bengal,Adizero SL,11999,8,95992,16301.85,16.98,Online
+Adidas Kolkata,RET-1580,2025-06-09,East,Kolkata,West Bengal,Superstar,8999,42,377958,93497.75,24.74,Online
+Adidas Kolkata,RET-1581,2025-06-19,East,Kolkata,West Bengal,Superstar,8999,22,197978,49050.43,24.78,Retail Store
+Adidas Chennai,RET-1582,2025-06-25,South,Chennai,Tamil Nadu,Adizero SL,11999,16,191984,29809.45,15.53,Online
+Adidas Mumbai,RET-1583,2025-06-28,West,Mumbai,Maharashtra,Adizero SL,11999,42,503958,84374.08,16.74,Online
+Adidas Chennai,RET-1584,2025-06-14,South,Chennai,Tamil Nadu,Superstar,8999,32,287968,67759.49,23.53,Retail Store
+Adidas Bengaluru,RET-1585,2025-06-12,South,Bengaluru,Karnataka,Climacool T-shirt,2499,23,57477,10311.83,17.94,Retail Store
+Adidas Mumbai,RET-1586,2025-06-19,West,Mumbai,Maharashtra,Sports Cap,999,35,34965,3596.08,10.28,Online
+Adidas Mumbai,RET-1587,2025-06-24,West,Mumbai,Maharashtra,Adizero SL,11999,39,467961,77772.27,16.62,Retail Store
+Adidas Bengaluru,RET-1588,2025-06-19,South,Bengaluru,Karnataka,Track Jacket,4999,28,139972,25956.07,18.54,Online
+Adidas Delhi,RET-1589,2025-06-07,North,Delhi,Delhi,Adizero SL,11999,24,287976,49952.49,17.35,Retail Store
+Adidas Chennai,RET-1590,2025-06-07,South,Chennai,Tamil Nadu,Sports Cap,999,27,26973,4042.51,14.99,Retail Store
+Adidas Chennai,RET-1591,2025-06-21,South,Chennai,Tamil Nadu,Sports Cap,999,36,35964,6541.47,18.19,Retail Store
+Adidas Mumbai,RET-1592,2025-06-05,West,Mumbai,Maharashtra,Climacool T-shirt,2499,8,19992,2539.79,12.7,Retail Store
+Adidas Delhi,RET-1593,2025-06-14,North,Delhi,Delhi,Ultraboost 22,18999,23,436977,68055.67,15.57,Online
+Adidas Kolkata,RET-1594,2025-06-09,East,Kolkata,West Bengal,Sports Cap,999,44,43956,8932.76,20.32,Retail Store
+Adidas Delhi,RET-1595,2025-06-21,North,Delhi,Delhi,Adizero SL,11999,21,251979,46668.57,18.52,Online
+Adidas Bengaluru,RET-1596,2025-06-06,South,Bengaluru,Karnataka,Sports Cap,999,11,10989,1100.47,10.01,Retail Store
+Adidas Chennai,RET-1597,2025-06-01,South,Chennai,Tamil Nadu,Sports Cap,999,32,31968,7990.87,25.0,Online
+Adidas Bengaluru,RET-1598,2025-06-25,South,Bengaluru,Karnataka,Superstar,8999,30,269970,44239.29,16.39,Online
+Adidas Mumbai,RET-1599,2025-06-05,West,Mumbai,Maharashtra,Sports Cap,999,19,18981,4116.03,21.69,Online
+Adidas Bengaluru,RET-1600,2025-06-14,South,Bengaluru,Karnataka,Adizero SL,11999,31,371969,86121.03,23.15,Online
+Adidas Chennai,RET-1601,2025-06-13,South,Chennai,Tamil Nadu,Sports Cap,999,20,19980,4111.86,20.58,Online
+Adidas Mumbai,RET-1602,2025-06-25,West,Mumbai,Maharashtra,Sports Cap,999,41,40959,8741.51,21.34,Online
+Adidas Kolkata,RET-1603,2025-06-24,East,Kolkata,West Bengal,Sports Cap,999,11,10989,2563.04,23.32,Retail Store
+Adidas Bengaluru,RET-1604,2025-06-30,South,Bengaluru,Karnataka,Ultraboost 22,18999,20,379980,69991.56,18.42,Retail Store
+Adidas Delhi,RET-1605,2025-06-15,North,Delhi,Delhi,Superstar,8999,6,53994,11642.7,21.56,Retail Store
+Adidas Mumbai,RET-1606,2025-06-08,West,Mumbai,Maharashtra,Climacool T-shirt,2499,10,24990,3814.98,15.27,Retail Store
+Adidas Kolkata,RET-1607,2025-06-19,East,Kolkata,West Bengal,Sports Cap,999,30,29970,5963.44,19.9,Retail Store
+Adidas Chennai,RET-1608,2025-06-17,South,Chennai,Tamil Nadu,Sports Cap,999,5,4995,1126.04,22.54,Online
+Adidas Bengaluru,RET-1609,2025-06-21,South,Bengaluru,Karnataka,Superstar,8999,45,404955,94713.48,23.39,Retail Store
+Adidas Chennai,RET-1610,2025-06-19,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,25,62475,14399.26,23.05,Retail Store
+Adidas Delhi,RET-1611,2025-06-13,North,Delhi,Delhi,Track Jacket,4999,36,179964,44811.8,24.9,Retail Store
+Adidas Chennai,RET-1612,2025-06-01,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,49,122451,14070.37,11.49,Retail Store
+Adidas Chennai,RET-1613,2025-06-01,South,Chennai,Tamil Nadu,Ultraboost 22,18999,40,759960,186140.77,24.49,Online
+Adidas Delhi,RET-1614,2025-06-30,North,Delhi,Delhi,Climacool T-shirt,2499,8,19992,3183.32,15.92,Online
+Adidas Mumbai,RET-1615,2025-06-27,West,Mumbai,Maharashtra,Climacool T-shirt,2499,7,17493,4029.63,23.04,Retail Store
+Adidas Kolkata,RET-1616,2025-06-02,East,Kolkata,West Bengal,Adizero SL,11999,31,371969,54146.57,14.56,Online
+Adidas Chennai,RET-1617,2025-06-17,South,Chennai,Tamil Nadu,Sports Cap,999,48,47952,7013.2,14.63,Retail Store
+Adidas Bengaluru,RET-1618,2025-06-26,South,Bengaluru,Karnataka,Adizero SL,11999,25,299975,62230.34,20.75,Retail Store
+Adidas Chennai,RET-1619,2025-06-23,South,Chennai,Tamil Nadu,Ultraboost 22,18999,19,360981,42590.82,11.8,Retail Store
+Adidas Chennai,RET-1620,2025-06-07,South,Chennai,Tamil Nadu,Sports Cap,999,22,21978,5117.05,23.28,Retail Store
+Adidas Bengaluru,RET-1621,2025-06-23,South,Bengaluru,Karnataka,Climacool T-shirt,2499,24,59976,11734.91,19.57,Online
+Adidas Chennai,RET-1622,2025-06-29,South,Chennai,Tamil Nadu,Superstar,8999,28,251972,61868.78,24.55,Online
+Adidas Bengaluru,RET-1623,2025-06-09,South,Bengaluru,Karnataka,Climacool T-shirt,2499,27,67473,7560.23,11.2,Online
+Adidas Mumbai,RET-1624,2025-06-21,West,Mumbai,Maharashtra,Ultraboost 22,18999,44,835956,106212.17,12.71,Retail Store
+Adidas Delhi,RET-1625,2025-06-18,North,Delhi,Delhi,Track Jacket,4999,46,229954,25539.41,11.11,Online
+Adidas Kolkata,RET-1626,2025-06-28,East,Kolkata,West Bengal,Climacool T-shirt,2499,13,32487,3356.68,10.33,Retail Store
+Adidas Chennai,RET-1627,2025-06-30,South,Chennai,Tamil Nadu,Track Jacket,4999,36,179964,36827.15,20.46,Retail Store
+Adidas Chennai,RET-1628,2025-06-19,South,Chennai,Tamil Nadu,Adizero SL,11999,32,383968,53328.91,13.89,Retail Store
+Adidas Chennai,RET-1629,2025-06-06,South,Chennai,Tamil Nadu,Adizero SL,11999,45,539955,110443.5,20.45,Online
+Adidas Delhi,RET-1630,2025-06-26,North,Delhi,Delhi,Adizero SL,11999,19,227981,48786.22,21.4,Online
+Adidas Delhi,RET-1631,2025-06-02,North,Delhi,Delhi,Climacool T-shirt,2499,44,109956,23219.1,21.12,Online
+Adidas Kolkata,RET-1632,2025-06-29,East,Kolkata,West Bengal,Sports Cap,999,37,36963,7820.44,21.16,Retail Store
+Adidas Delhi,RET-1633,2025-06-11,North,Delhi,Delhi,Superstar,8999,7,62993,15607.21,24.78,Online
+Adidas Kolkata,RET-1634,2025-06-29,East,Kolkata,West Bengal,Superstar,8999,13,116987,21417.94,18.31,Retail Store
+Adidas Mumbai,RET-1635,2025-06-02,West,Mumbai,Maharashtra,Ultraboost 22,18999,12,227988,47384.87,20.78,Online
+Adidas Kolkata,RET-1636,2025-06-20,East,Kolkata,West Bengal,Adizero SL,11999,14,167986,22618.15,13.46,Online
+Adidas Bengaluru,RET-1637,2025-06-26,South,Bengaluru,Karnataka,Ultraboost 22,18999,28,531972,114642.96,21.55,Online
+Adidas Chennai,RET-1638,2025-06-17,South,Chennai,Tamil Nadu,Track Jacket,4999,22,109978,16532.67,15.03,Online
+Adidas Bengaluru,RET-1639,2025-06-12,South,Bengaluru,Karnataka,Track Jacket,4999,12,59988,8935.6,14.9,Retail Store
+Adidas Kolkata,RET-1640,2025-06-08,East,Kolkata,West Bengal,Adizero SL,11999,23,275977,36168.53,13.11,Online
+Adidas Mumbai,RET-1641,2025-06-22,West,Mumbai,Maharashtra,Ultraboost 22,18999,43,816957,190604.3,23.33,Online
+Adidas Mumbai,RET-1642,2025-06-10,West,Mumbai,Maharashtra,Track Jacket,4999,5,24995,4684.05,18.74,Online
+Adidas Mumbai,RET-1643,2025-06-29,West,Mumbai,Maharashtra,Ultraboost 22,18999,47,892953,114310.43,12.8,Online
+Adidas Delhi,RET-1644,2025-06-13,North,Delhi,Delhi,Track Jacket,4999,41,204959,30962.13,15.11,Retail Store
+Adidas Mumbai,RET-1645,2025-06-13,West,Mumbai,Maharashtra,Ultraboost 22,18999,9,170991,32578.94,19.05,Retail Store
+Adidas Mumbai,RET-1646,2025-06-26,West,Mumbai,Maharashtra,Climacool T-shirt,2499,21,52479,6327.34,12.06,Retail Store
+Adidas Delhi,RET-1647,2025-06-22,North,Delhi,Delhi,Track Jacket,4999,6,29994,3394.11,11.32,Online
+Adidas Bengaluru,RET-1648,2025-06-06,South,Bengaluru,Karnataka,Climacool T-shirt,2499,5,12495,2582.01,20.66,Retail Store
+Adidas Chennai,RET-1649,2025-06-06,South,Chennai,Tamil Nadu,Track Jacket,4999,6,29994,7135.04,23.79,Retail Store
+Adidas Mumbai,RET-1650,2025-06-27,West,Mumbai,Maharashtra,Sports Cap,999,43,42957,8112.09,18.88,Online
+Adidas Bengaluru,RET-1651,2025-06-16,South,Bengaluru,Karnataka,Ultraboost 22,18999,50,949950,106884.33,11.25,Online
+Adidas Delhi,RET-1652,2025-06-20,North,Delhi,Delhi,Sports Cap,999,24,23976,5265.66,21.96,Retail Store
+Adidas Chennai,RET-1653,2025-06-05,South,Chennai,Tamil Nadu,Superstar,8999,37,332963,52904.92,15.89,Retail Store
+Adidas Chennai,RET-1654,2025-06-28,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,50,124950,17281.05,13.83,Retail Store
+Adidas Mumbai,RET-1655,2025-06-04,West,Mumbai,Maharashtra,Sports Cap,999,6,5994,1315.61,21.95,Retail Store
+Adidas Chennai,RET-1656,2025-06-04,South,Chennai,Tamil Nadu,Adizero SL,11999,28,335972,49234.59,14.65,Retail Store
+Adidas Delhi,RET-1657,2025-06-22,North,Delhi,Delhi,Climacool T-shirt,2499,44,109956,23739.34,21.59,Online
+Adidas Bengaluru,RET-1658,2025-06-08,South,Bengaluru,Karnataka,Superstar,8999,43,386957,52807.43,13.65,Online
+Adidas Chennai,RET-1659,2025-06-11,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,22,54978,12462.19,22.67,Online
+Adidas Kolkata,RET-1660,2025-06-17,East,Kolkata,West Bengal,Track Jacket,4999,9,44991,7410.82,16.47,Retail Store
+Adidas Delhi,RET-1661,2025-06-23,North,Delhi,Delhi,Superstar,8999,29,260971,62278.52,23.86,Retail Store
+Adidas Delhi,RET-1662,2025-06-19,North,Delhi,Delhi,Superstar,8999,18,161982,29379.19,18.14,Online
+Adidas Bengaluru,RET-1663,2025-06-20,South,Bengaluru,Karnataka,Track Jacket,4999,50,249950,32355.83,12.94,Online
+Adidas Delhi,RET-1664,2025-06-22,North,Delhi,Delhi,Sports Cap,999,23,22977,2908.03,12.66,Retail Store
+Adidas Chennai,RET-1665,2025-06-11,South,Chennai,Tamil Nadu,Track Jacket,4999,18,89982,22337.78,24.82,Retail Store
+Adidas Bengaluru,RET-1666,2025-06-28,South,Bengaluru,Karnataka,Superstar,8999,35,314965,77675.08,24.66,Retail Store
+Adidas Kolkata,RET-1667,2025-06-06,East,Kolkata,West Bengal,Ultraboost 22,18999,50,949950,158155.6,16.65,Online
+Adidas Kolkata,RET-1668,2025-06-25,East,Kolkata,West Bengal,Sports Cap,999,5,4995,608.86,12.19,Retail Store
+Adidas Mumbai,RET-1669,2025-06-13,West,Mumbai,Maharashtra,Superstar,8999,29,260971,55876.29,21.41,Retail Store
+Adidas Bengaluru,RET-1670,2025-06-02,South,Bengaluru,Karnataka,Climacool T-shirt,2499,41,102459,23242.9,22.69,Retail Store
+Adidas Mumbai,RET-1671,2025-06-27,West,Mumbai,Maharashtra,Ultraboost 22,18999,32,607968,145751.9,23.97,Online
+Adidas Mumbai,RET-1672,2025-06-11,West,Mumbai,Maharashtra,Track Jacket,4999,36,179964,40493.64,22.5,Online
+Adidas Mumbai,RET-1673,2025-06-07,West,Mumbai,Maharashtra,Track Jacket,4999,17,84983,15767.3,18.55,Online
+Adidas Delhi,RET-1674,2025-06-09,North,Delhi,Delhi,Track Jacket,4999,39,194961,38728.68,19.86,Retail Store
+Adidas Delhi,RET-1675,2025-06-13,North,Delhi,Delhi,Superstar,8999,36,323964,65329.5,20.17,Retail Store
+Adidas Kolkata,RET-1676,2025-06-11,East,Kolkata,West Bengal,Ultraboost 22,18999,30,569970,120332.2,21.11,Retail Store
+Adidas Mumbai,RET-1677,2025-06-11,West,Mumbai,Maharashtra,Track Jacket,4999,22,109978,11634.69,10.58,Online
+Adidas Bengaluru,RET-1678,2025-06-01,South,Bengaluru,Karnataka,Ultraboost 22,18999,10,189990,40799.36,21.47,Online
+Adidas Kolkata,RET-1679,2025-06-28,East,Kolkata,West Bengal,Climacool T-shirt,2499,22,54978,11764.87,21.4,Online
+Adidas Kolkata,RET-1680,2025-06-30,East,Kolkata,West Bengal,Track Jacket,4999,23,114977,25820.83,22.46,Online
+Adidas Mumbai,RET-1681,2025-06-13,West,Mumbai,Maharashtra,Climacool T-shirt,2499,26,64974,10799.4,16.62,Retail Store
+Adidas Chennai,RET-1682,2025-06-28,South,Chennai,Tamil Nadu,Sports Cap,999,8,7992,1414.68,17.7,Retail Store
+Adidas Bengaluru,RET-1683,2025-06-23,South,Bengaluru,Karnataka,Superstar,8999,8,71992,17423.13,24.2,Retail Store
+Adidas Delhi,RET-1684,2025-06-01,North,Delhi,Delhi,Track Jacket,4999,15,74985,15377.97,20.51,Online
+Adidas Bengaluru,RET-1685,2025-06-22,South,Bengaluru,Karnataka,Track Jacket,4999,40,199960,41681.72,20.85,Retail Store
+Adidas Bengaluru,RET-1686,2025-06-19,South,Bengaluru,Karnataka,Ultraboost 22,18999,23,436977,83173.35,19.03,Retail Store
+Adidas Mumbai,RET-1687,2025-06-24,West,Mumbai,Maharashtra,Track Jacket,4999,26,129974,22484.76,17.3,Retail Store
+Adidas Kolkata,RET-1688,2025-06-05,East,Kolkata,West Bengal,Track Jacket,4999,21,104979,11452.77,10.91,Online
+Adidas Delhi,RET-1689,2025-06-05,North,Delhi,Delhi,Ultraboost 22,18999,22,417978,60798.09,14.55,Online
+Adidas Delhi,RET-1690,2025-06-22,North,Delhi,Delhi,Superstar,8999,36,323964,78843.35,24.34,Retail Store
+Adidas Mumbai,RET-1691,2025-06-15,West,Mumbai,Maharashtra,Sports Cap,999,25,24975,2884.71,11.55,Online
+Adidas Delhi,RET-1692,2025-06-29,North,Delhi,Delhi,Climacool T-shirt,2499,26,64974,6633.46,10.21,Online
+Adidas Delhi,RET-1693,2025-06-18,North,Delhi,Delhi,Track Jacket,4999,13,64987,8262.31,12.71,Retail Store
+Adidas Mumbai,RET-1694,2025-06-23,West,Mumbai,Maharashtra,Ultraboost 22,18999,15,284985,39924.06,14.01,Retail Store
+Adidas Kolkata,RET-1695,2025-06-03,East,Kolkata,West Bengal,Superstar,8999,24,215976,38075.13,17.63,Online
+Adidas Chennai,RET-1696,2025-06-25,South,Chennai,Tamil Nadu,Adizero SL,11999,36,431964,63255.91,14.64,Online
+Adidas Kolkata,RET-1697,2025-06-21,East,Kolkata,West Bengal,Track Jacket,4999,41,204959,46770.91,22.82,Retail Store
+Adidas Chennai,RET-1698,2025-06-08,South,Chennai,Tamil Nadu,Track Jacket,4999,18,89982,12367.03,13.74,Retail Store
+Adidas Kolkata,RET-1699,2025-06-05,East,Kolkata,West Bengal,Ultraboost 22,18999,6,113994,25833.4,22.66,Online
+Adidas Mumbai,RET-1700,2025-06-14,West,Mumbai,Maharashtra,Sports Cap,999,19,18981,4692.21,24.72,Retail Store
+Adidas Mumbai,RET-1701,2025-06-05,West,Mumbai,Maharashtra,Adizero SL,11999,46,551954,62692.49,11.36,Online
+Adidas Mumbai,RET-1702,2025-06-22,West,Mumbai,Maharashtra,Ultraboost 22,18999,10,189990,45669.68,24.04,Online
+Adidas Delhi,RET-1703,2025-06-27,North,Delhi,Delhi,Climacool T-shirt,2499,12,29988,6913.79,23.06,Online
+Adidas Kolkata,RET-1704,2025-06-17,East,Kolkata,West Bengal,Adizero SL,11999,17,203983,49865.98,24.45,Online
+Adidas Kolkata,RET-1705,2025-06-21,East,Kolkata,West Bengal,Ultraboost 22,18999,32,607968,105372.4,17.33,Retail Store
+Adidas Kolkata,RET-1706,2025-06-08,East,Kolkata,West Bengal,Track Jacket,4999,26,129974,29025.53,22.33,Retail Store
+Adidas Bengaluru,RET-1707,2025-06-17,South,Bengaluru,Karnataka,Ultraboost 22,18999,13,246987,60721.23,24.58,Online
+Adidas Chennai,RET-1708,2025-06-09,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,43,107457,26033.9,24.23,Online
+Adidas Chennai,RET-1709,2025-06-18,South,Chennai,Tamil Nadu,Superstar,8999,10,89990,22044.66,24.5,Retail Store
+Adidas Mumbai,RET-1710,2025-06-21,West,Mumbai,Maharashtra,Sports Cap,999,15,14985,3065.23,20.46,Online
+Adidas Delhi,RET-1711,2025-06-23,North,Delhi,Delhi,Superstar,8999,15,134985,22629.35,16.76,Online
+Adidas Mumbai,RET-1712,2025-06-30,West,Mumbai,Maharashtra,Sports Cap,999,42,41958,5059.78,12.06,Retail Store
+Adidas Bengaluru,RET-1713,2025-06-02,South,Bengaluru,Karnataka,Sports Cap,999,30,29970,4954.71,16.53,Retail Store
+Adidas Bengaluru,RET-1714,2025-06-09,South,Bengaluru,Karnataka,Superstar,8999,41,368959,76853.77,20.83,Online
+Adidas Bengaluru,RET-1715,2025-06-19,South,Bengaluru,Karnataka,Superstar,8999,24,215976,44194.92,20.46,Retail Store
+Adidas Kolkata,RET-1716,2025-06-11,East,Kolkata,West Bengal,Sports Cap,999,5,4995,998.74,19.99,Retail Store
+Adidas Chennai,RET-1717,2025-06-22,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,33,82467,12690.81,15.39,Retail Store
+Adidas Delhi,RET-1718,2025-06-14,North,Delhi,Delhi,Ultraboost 22,18999,6,113994,18425.19,16.16,Retail Store
+Adidas Delhi,RET-1719,2025-06-03,North,Delhi,Delhi,Adizero SL,11999,22,263978,61696.49,23.37,Retail Store
+Adidas Bengaluru,RET-1720,2025-06-08,South,Bengaluru,Karnataka,Sports Cap,999,25,24975,4438.3,17.77,Online
+Adidas Kolkata,RET-1721,2025-06-29,East,Kolkata,West Bengal,Sports Cap,999,17,16983,2839.12,16.72,Online
+Adidas Delhi,RET-1722,2025-06-17,North,Delhi,Delhi,Ultraboost 22,18999,32,607968,80811.5,13.29,Retail Store
+Adidas Delhi,RET-1723,2025-06-09,North,Delhi,Delhi,Track Jacket,4999,37,184963,36698.44,19.84,Retail Store
+Adidas Bengaluru,RET-1724,2025-06-30,South,Bengaluru,Karnataka,Superstar,8999,13,116987,14857.65,12.7,Retail Store
+Adidas Chennai,RET-1725,2025-06-04,South,Chennai,Tamil Nadu,Ultraboost 22,18999,46,873954,125992.38,14.42,Online
+Adidas Delhi,RET-1726,2025-06-21,North,Delhi,Delhi,Ultraboost 22,18999,16,303984,45001.01,14.8,Retail Store
+Adidas Delhi,RET-1727,2025-06-23,North,Delhi,Delhi,Ultraboost 22,18999,12,227988,27259.64,11.96,Online
+Adidas Delhi,RET-1728,2025-06-30,North,Delhi,Delhi,Sports Cap,999,16,15984,3495.34,21.87,Online
+Adidas Mumbai,RET-1729,2025-06-14,West,Mumbai,Maharashtra,Adizero SL,11999,27,323973,61216.16,18.9,Online
+Adidas Chennai,RET-1730,2025-06-19,South,Chennai,Tamil Nadu,Track Jacket,4999,17,84983,14180.68,16.69,Retail Store
+Adidas Delhi,RET-1731,2025-06-19,North,Delhi,Delhi,Ultraboost 22,18999,8,151992,18837.62,12.39,Online
+Adidas Kolkata,RET-1732,2025-06-25,East,Kolkata,West Bengal,Climacool T-shirt,2499,34,84966,19298.33,22.71,Online
+Adidas Delhi,RET-1733,2025-06-14,North,Delhi,Delhi,Ultraboost 22,18999,31,588969,100007.55,16.98,Online
+Adidas Chennai,RET-1734,2025-06-07,South,Chennai,Tamil Nadu,Ultraboost 22,18999,10,189990,34449.5,18.13,Online
+Adidas Mumbai,RET-1735,2025-06-14,West,Mumbai,Maharashtra,Track Jacket,4999,28,139972,26209.34,18.72,Online
+Adidas Kolkata,RET-1736,2025-06-25,East,Kolkata,West Bengal,Sports Cap,999,29,28971,6265.27,21.63,Online
+Adidas Mumbai,RET-1737,2025-06-23,West,Mumbai,Maharashtra,Climacool T-shirt,2499,29,72471,8504.75,11.74,Online
+Adidas Kolkata,RET-1738,2025-06-02,East,Kolkata,West Bengal,Sports Cap,999,6,5994,1162.45,19.39,Retail Store
+Adidas Chennai,RET-1739,2025-06-30,South,Chennai,Tamil Nadu,Sports Cap,999,15,14985,3495.49,23.33,Retail Store
+Adidas Kolkata,RET-1740,2025-06-17,East,Kolkata,West Bengal,Ultraboost 22,18999,22,417978,93220.27,22.3,Retail Store
+Adidas Bengaluru,RET-1741,2025-06-30,South,Bengaluru,Karnataka,Track Jacket,4999,27,134973,18500.93,13.71,Retail Store
+Adidas Kolkata,RET-1742,2025-06-07,East,Kolkata,West Bengal,Superstar,8999,24,215976,37074.39,17.17,Retail Store
+Adidas Bengaluru,RET-1743,2025-06-12,South,Bengaluru,Karnataka,Track Jacket,4999,30,149970,17944.4,11.97,Online
+Adidas Delhi,RET-1744,2025-06-25,North,Delhi,Delhi,Adizero SL,11999,33,395967,65267.53,16.48,Online
+Adidas Chennai,RET-1745,2025-06-04,South,Chennai,Tamil Nadu,Track Jacket,4999,6,29994,3764.97,12.55,Retail Store
+Adidas Delhi,RET-1746,2025-06-20,North,Delhi,Delhi,Sports Cap,999,39,38961,4634.58,11.9,Online
+Adidas Chennai,RET-1747,2025-06-17,South,Chennai,Tamil Nadu,Sports Cap,999,14,13986,2824.35,20.19,Retail Store
+Adidas Bengaluru,RET-1748,2025-06-03,South,Bengaluru,Karnataka,Sports Cap,999,47,46953,4885.89,10.41,Retail Store
+Adidas Delhi,RET-1749,2025-06-11,North,Delhi,Delhi,Sports Cap,999,8,7992,1027.35,12.85,Online
+Adidas Mumbai,RET-1750,2025-06-17,West,Mumbai,Maharashtra,Adizero SL,11999,22,263978,49248.55,18.66,Retail Store
+Adidas Delhi,RET-1751,2025-06-16,North,Delhi,Delhi,Superstar,8999,34,305966,43430.24,14.19,Online
+Adidas Bengaluru,RET-1752,2025-06-01,South,Bengaluru,Karnataka,Superstar,8999,7,62993,9412.13,14.94,Retail Store
+Adidas Delhi,RET-1753,2025-06-06,North,Delhi,Delhi,Climacool T-shirt,2499,39,97461,23979.95,24.6,Retail Store
+Adidas Chennai,RET-1754,2025-06-12,South,Chennai,Tamil Nadu,Ultraboost 22,18999,7,132993,16759.85,12.6,Online
+Adidas Bengaluru,RET-1755,2025-06-17,South,Bengaluru,Karnataka,Ultraboost 22,18999,17,322983,75825.45,23.48,Online
+Adidas Delhi,RET-1756,2025-06-11,North,Delhi,Delhi,Track Jacket,4999,7,34993,8421.11,24.07,Online
+Adidas Kolkata,RET-1757,2025-06-22,East,Kolkata,West Bengal,Track Jacket,4999,32,159968,23893.38,14.94,Retail Store
+Adidas Delhi,RET-1758,2025-06-11,North,Delhi,Delhi,Track Jacket,4999,12,59988,12475.38,20.8,Online
+Adidas Delhi,RET-1759,2025-06-17,North,Delhi,Delhi,Adizero SL,11999,48,575952,63750.19,11.07,Retail Store
+Adidas Delhi,RET-1760,2025-06-24,North,Delhi,Delhi,Superstar,8999,25,224975,52368.87,23.28,Retail Store
+Adidas Mumbai,RET-1761,2025-06-04,West,Mumbai,Maharashtra,Adizero SL,11999,7,83993,9884.34,11.77,Online
+Adidas Chennai,RET-1762,2025-06-15,South,Chennai,Tamil Nadu,Track Jacket,4999,9,44991,6016.34,13.37,Retail Store
+Adidas Delhi,RET-1763,2025-06-15,North,Delhi,Delhi,Sports Cap,999,22,21978,4643.37,21.13,Online
+Adidas Bengaluru,RET-1764,2025-06-02,South,Bengaluru,Karnataka,Ultraboost 22,18999,20,379980,68945.37,18.14,Retail Store
+Adidas Delhi,RET-1765,2025-06-06,North,Delhi,Delhi,Sports Cap,999,10,9990,1297.85,12.99,Online
+Adidas Mumbai,RET-1766,2025-06-22,West,Mumbai,Maharashtra,Climacool T-shirt,2499,50,124950,19848.43,15.89,Retail Store
+Adidas Delhi,RET-1767,2025-06-02,North,Delhi,Delhi,Climacool T-shirt,2499,31,77469,11825.94,15.27,Retail Store
+Adidas Mumbai,RET-1768,2025-06-11,West,Mumbai,Maharashtra,Superstar,8999,36,323964,51955.43,16.04,Online
+Adidas Kolkata,RET-1769,2025-06-02,East,Kolkata,West Bengal,Climacool T-shirt,2499,49,122451,22507.56,18.38,Online
+Adidas Chennai,RET-1770,2025-06-04,South,Chennai,Tamil Nadu,Adizero SL,11999,17,203983,25337.63,12.42,Online
+Adidas Kolkata,RET-1771,2025-06-06,East,Kolkata,West Bengal,Climacool T-shirt,2499,9,22491,2824.89,12.56,Retail Store
+Adidas Bengaluru,RET-1772,2025-06-28,South,Bengaluru,Karnataka,Track Jacket,4999,35,174965,24147.71,13.8,Online
+Adidas Mumbai,RET-1773,2025-06-05,West,Mumbai,Maharashtra,Superstar,8999,31,278969,38178.66,13.69,Retail Store
+Adidas Kolkata,RET-1774,2025-06-14,East,Kolkata,West Bengal,Climacool T-shirt,2499,26,64974,16021.86,24.66,Online
+Adidas Delhi,RET-1775,2025-06-14,North,Delhi,Delhi,Superstar,8999,40,359960,57858.04,16.07,Retail Store
+Adidas Mumbai,RET-1776,2025-06-22,West,Mumbai,Maharashtra,Adizero SL,11999,45,539955,91581.6,16.96,Retail Store
+Adidas Mumbai,RET-1777,2025-06-25,West,Mumbai,Maharashtra,Track Jacket,4999,19,94981,15805.2,16.64,Retail Store
+Adidas Kolkata,RET-1778,2025-06-22,East,Kolkata,West Bengal,Ultraboost 22,18999,11,208989,34338.03,16.43,Retail Store
+Adidas Chennai,RET-1779,2025-06-27,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,27,67473,10978.6,16.27,Retail Store
+Adidas Kolkata,RET-1780,2025-06-20,East,Kolkata,West Bengal,Ultraboost 22,18999,10,189990,46886.35,24.68,Retail Store
+Adidas Bengaluru,RET-1781,2025-06-01,South,Bengaluru,Karnataka,Superstar,8999,20,179980,24763.9,13.76,Online
+Adidas Delhi,RET-1782,2025-06-21,North,Delhi,Delhi,Sports Cap,999,16,15984,3010.87,18.84,Retail Store
+Adidas Mumbai,RET-1783,2025-06-24,West,Mumbai,Maharashtra,Climacool T-shirt,2499,46,114954,20877.22,18.16,Retail Store
+Adidas Kolkata,RET-1784,2025-06-08,East,Kolkata,West Bengal,Climacool T-shirt,2499,36,89964,19770.82,21.98,Online
+Adidas Delhi,RET-1785,2025-06-23,North,Delhi,Delhi,Ultraboost 22,18999,42,797958,172298.41,21.59,Online
+Adidas Delhi,RET-1786,2025-06-18,North,Delhi,Delhi,Track Jacket,4999,43,214957,50637.39,23.56,Retail Store
+Adidas Kolkata,RET-1787,2025-06-04,East,Kolkata,West Bengal,Ultraboost 22,18999,50,949950,108121.11,11.38,Retail Store
+Adidas Bengaluru,RET-1788,2025-06-29,South,Bengaluru,Karnataka,Sports Cap,999,22,21978,4119.3,18.74,Online
+Adidas Delhi,RET-1789,2025-06-29,North,Delhi,Delhi,Sports Cap,999,6,5994,1189.65,19.85,Online
+Adidas Kolkata,RET-1790,2025-06-12,East,Kolkata,West Bengal,Ultraboost 22,18999,23,436977,65938.73,15.09,Online
+Adidas Chennai,RET-1791,2025-06-22,South,Chennai,Tamil Nadu,Track Jacket,4999,47,234953,34306.14,14.6,Retail Store
+Adidas Bengaluru,RET-1792,2025-06-15,South,Bengaluru,Karnataka,Superstar,8999,22,197978,42937.88,21.69,Online
+Adidas Bengaluru,RET-1793,2025-06-14,South,Bengaluru,Karnataka,Superstar,8999,14,125986,21453.96,17.03,Online
+Adidas Mumbai,RET-1794,2025-06-26,West,Mumbai,Maharashtra,Superstar,8999,44,395956,71258.86,18.0,Retail Store
+Adidas Kolkata,RET-1795,2025-06-27,East,Kolkata,West Bengal,Track Jacket,4999,27,134973,31594.18,23.41,Retail Store
+Adidas Bengaluru,RET-1796,2025-06-17,South,Bengaluru,Karnataka,Track Jacket,4999,24,119976,25905.82,21.59,Online
+Adidas Delhi,RET-1797,2025-06-10,North,Delhi,Delhi,Ultraboost 22,18999,35,664965,135809.91,20.42,Retail Store
+Adidas Chennai,RET-1798,2025-06-25,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,23,57477,13424.4,23.36,Retail Store
+Adidas Bengaluru,RET-1799,2025-06-25,South,Bengaluru,Karnataka,Climacool T-shirt,2499,36,89964,21262.47,23.63,Retail Store
+Adidas Mumbai,RET-1800,2025-06-23,West,Mumbai,Maharashtra,Sports Cap,999,41,40959,5331.74,13.02,Retail Store
+Adidas Mumbai,RET-1801,2025-06-28,West,Mumbai,Maharashtra,Climacool T-shirt,2499,6,14994,2550.46,17.01,Retail Store
+Adidas Chennai,RET-1802,2025-06-10,South,Chennai,Tamil Nadu,Track Jacket,4999,30,149970,20142.22,13.43,Online
+Adidas Delhi,RET-1803,2025-06-30,North,Delhi,Delhi,Ultraboost 22,18999,30,569970,58667.08,10.29,Retail Store
+Adidas Kolkata,RET-1804,2025-06-12,East,Kolkata,West Bengal,Superstar,8999,35,314965,39504.03,12.54,Retail Store
+Adidas Delhi,RET-1805,2025-06-04,North,Delhi,Delhi,Adizero SL,11999,20,239980,41742.2,17.39,Online
+Adidas Kolkata,RET-1806,2025-06-06,East,Kolkata,West Bengal,Track Jacket,4999,45,224955,23765.4,10.56,Retail Store
+Adidas Delhi,RET-1807,2025-06-11,North,Delhi,Delhi,Track Jacket,4999,38,189962,39230.66,20.65,Retail Store
+Adidas Kolkata,RET-1808,2025-06-29,East,Kolkata,West Bengal,Sports Cap,999,21,20979,2132.28,10.16,Online
+Adidas Kolkata,RET-1809,2025-06-17,East,Kolkata,West Bengal,Track Jacket,4999,24,119976,21895.77,18.25,Retail Store
+Adidas Chennai,RET-1810,2025-06-29,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,29,72471,9593.42,13.24,Retail Store
+Adidas Mumbai,RET-1811,2025-06-07,West,Mumbai,Maharashtra,Sports Cap,999,34,33966,6841.91,20.14,Retail Store
+Adidas Kolkata,RET-1812,2025-06-28,East,Kolkata,West Bengal,Adizero SL,11999,22,263978,27567.08,10.44,Online
+Adidas Mumbai,RET-1813,2025-06-28,West,Mumbai,Maharashtra,Sports Cap,999,46,45954,5966.31,12.98,Online
+Adidas Bengaluru,RET-1814,2025-06-23,South,Bengaluru,Karnataka,Track Jacket,4999,32,159968,28123.0,17.58,Retail Store
+Adidas Mumbai,RET-1815,2025-06-22,West,Mumbai,Maharashtra,Sports Cap,999,20,19980,4634.54,23.2,Online
+Adidas Mumbai,RET-1816,2025-06-20,West,Mumbai,Maharashtra,Superstar,8999,18,161982,29579.89,18.26,Online
+Adidas Kolkata,RET-1817,2025-06-25,East,Kolkata,West Bengal,Sports Cap,999,50,49950,8638.48,17.29,Online
+Adidas Kolkata,RET-1818,2025-06-10,East,Kolkata,West Bengal,Superstar,8999,9,80991,15311.06,18.9,Online
+Adidas Kolkata,RET-1819,2025-06-02,East,Kolkata,West Bengal,Superstar,8999,13,116987,18822.36,16.09,Online
+Adidas Bengaluru,RET-1820,2025-06-16,South,Bengaluru,Karnataka,Climacool T-shirt,2499,48,119952,24188.93,20.17,Retail Store
+Adidas Bengaluru,RET-1821,2025-06-09,South,Bengaluru,Karnataka,Superstar,8999,33,296967,39254.35,13.22,Online
+Adidas Chennai,RET-1822,2025-06-06,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,29,72471,11394.28,15.72,Online
+Adidas Bengaluru,RET-1823,2025-06-02,South,Bengaluru,Karnataka,Adizero SL,11999,18,215982,25654.08,11.88,Retail Store
+Adidas Mumbai,RET-1824,2025-06-18,West,Mumbai,Maharashtra,Track Jacket,4999,41,204959,20808.67,10.15,Retail Store
+Adidas Delhi,RET-1825,2025-06-16,North,Delhi,Delhi,Climacool T-shirt,2499,49,122451,13735.26,11.22,Online
+Adidas Kolkata,RET-1826,2025-06-18,East,Kolkata,West Bengal,Track Jacket,4999,35,174965,29601.19,16.92,Online
+Adidas Kolkata,RET-1827,2025-06-24,East,Kolkata,West Bengal,Climacool T-shirt,2499,18,44982,10435.71,23.2,Online
+Adidas Mumbai,RET-1828,2025-06-17,West,Mumbai,Maharashtra,Sports Cap,999,15,14985,2134.15,14.24,Retail Store
+Adidas Chennai,RET-1829,2025-06-07,South,Chennai,Tamil Nadu,Track Jacket,4999,20,99980,24661.47,24.67,Online
+Adidas Mumbai,RET-1830,2025-06-20,West,Mumbai,Maharashtra,Adizero SL,11999,32,383968,42814.32,11.15,Online
+Adidas Delhi,RET-1831,2025-06-22,North,Delhi,Delhi,Sports Cap,999,25,24975,4098.52,16.41,Online
+Adidas Chennai,RET-1832,2025-06-08,South,Chennai,Tamil Nadu,Superstar,8999,16,143984,23049.08,16.01,Online
+Adidas Delhi,RET-1833,2025-06-30,North,Delhi,Delhi,Adizero SL,11999,15,179985,19168.37,10.65,Retail Store
+Adidas Kolkata,RET-1834,2025-06-02,East,Kolkata,West Bengal,Superstar,8999,18,161982,16339.81,10.09,Online
+Adidas Chennai,RET-1835,2025-06-14,South,Chennai,Tamil Nadu,Track Jacket,4999,14,69986,16076.02,22.97,Retail Store
+Adidas Bengaluru,RET-1836,2025-06-24,South,Bengaluru,Karnataka,Adizero SL,11999,43,515957,117880.76,22.85,Retail Store
+Adidas Delhi,RET-1837,2025-06-05,North,Delhi,Delhi,Sports Cap,999,47,46953,7371.37,15.7,Online
+Adidas Delhi,RET-1838,2025-06-10,North,Delhi,Delhi,Adizero SL,11999,42,503958,123625.74,24.53,Retail Store
+Adidas Kolkata,RET-1839,2025-06-19,East,Kolkata,West Bengal,Adizero SL,11999,25,299975,35824.15,11.94,Online
+Adidas Delhi,RET-1840,2025-06-22,North,Delhi,Delhi,Climacool T-shirt,2499,33,82467,17212.38,20.87,Online
+Adidas Delhi,RET-1841,2025-06-10,North,Delhi,Delhi,Superstar,8999,25,224975,49439.16,21.98,Retail Store
+Adidas Bengaluru,RET-1842,2025-06-09,South,Bengaluru,Karnataka,Climacool T-shirt,2499,22,54978,8957.22,16.29,Retail Store
+Adidas Kolkata,RET-1843,2025-06-22,East,Kolkata,West Bengal,Ultraboost 22,18999,19,360981,65914.58,18.26,Online
+Adidas Bengaluru,RET-1844,2025-06-16,South,Bengaluru,Karnataka,Ultraboost 22,18999,48,911952,184494.21,20.23,Retail Store
+Adidas Mumbai,RET-1845,2025-06-01,West,Mumbai,Maharashtra,Superstar,8999,6,53994,13055.56,24.18,Online
+Adidas Chennai,RET-1846,2025-06-18,South,Chennai,Tamil Nadu,Track Jacket,4999,23,114977,28706.47,24.97,Online
+Adidas Kolkata,RET-1847,2025-06-13,East,Kolkata,West Bengal,Ultraboost 22,18999,46,873954,98419.19,11.26,Online
+Adidas Mumbai,RET-1848,2025-06-02,West,Mumbai,Maharashtra,Climacool T-shirt,2499,49,122451,12722.82,10.39,Online
+Adidas Mumbai,RET-1849,2025-06-14,West,Mumbai,Maharashtra,Superstar,8999,41,368959,58539.66,15.87,Online
+Adidas Delhi,RET-1850,2025-06-02,North,Delhi,Delhi,Sports Cap,999,25,24975,6179.7,24.74,Retail Store
+Adidas Chennai,RET-1851,2025-06-02,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,43,107457,17291.71,16.09,Retail Store
+Adidas Delhi,RET-1852,2025-06-03,North,Delhi,Delhi,Climacool T-shirt,2499,13,32487,3577.37,11.01,Retail Store
+Adidas Bengaluru,RET-1853,2025-06-26,South,Bengaluru,Karnataka,Track Jacket,4999,17,84983,11178.9,13.15,Online
+Adidas Mumbai,RET-1854,2025-06-20,West,Mumbai,Maharashtra,Ultraboost 22,18999,43,816957,149216.39,18.26,Retail Store
+Adidas Delhi,RET-1855,2025-06-07,North,Delhi,Delhi,Sports Cap,999,7,6993,1461.79,20.9,Online
+Adidas Chennai,RET-1856,2025-06-25,South,Chennai,Tamil Nadu,Track Jacket,4999,41,204959,41955.59,20.47,Online
+Adidas Bengaluru,RET-1857,2025-06-02,South,Bengaluru,Karnataka,Sports Cap,999,31,30969,3213.48,10.38,Online
+Adidas Delhi,RET-1858,2025-06-20,North,Delhi,Delhi,Climacool T-shirt,2499,44,109956,19220.55,17.48,Retail Store
+Adidas Bengaluru,RET-1859,2025-06-30,South,Bengaluru,Karnataka,Track Jacket,4999,14,69986,16611.38,23.74,Online
+Adidas Kolkata,RET-1860,2025-06-19,East,Kolkata,West Bengal,Track Jacket,4999,40,199960,41467.13,20.74,Online
+Adidas Mumbai,RET-1861,2025-06-16,West,Mumbai,Maharashtra,Superstar,8999,31,278969,40110.41,14.38,Retail Store
+Adidas Bengaluru,RET-1862,2025-06-13,South,Bengaluru,Karnataka,Superstar,8999,12,107988,22798.66,21.11,Online
+Adidas Bengaluru,RET-1863,2025-06-22,South,Bengaluru,Karnataka,Track Jacket,4999,29,144971,32351.89,22.32,Retail Store
+Adidas Mumbai,RET-1864,2025-06-09,West,Mumbai,Maharashtra,Superstar,8999,45,404955,65946.59,16.28,Online
+Adidas Chennai,RET-1865,2025-06-12,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,11,27489,5533.47,20.13,Retail Store
+Adidas Mumbai,RET-1866,2025-06-04,West,Mumbai,Maharashtra,Climacool T-shirt,2499,21,52479,6404.73,12.2,Retail Store
+Adidas Delhi,RET-1867,2025-06-19,North,Delhi,Delhi,Superstar,8999,25,224975,39611.52,17.61,Retail Store
+Adidas Chennai,RET-1868,2025-06-25,South,Chennai,Tamil Nadu,Ultraboost 22,18999,43,816957,166759.81,20.41,Online
+Adidas Chennai,RET-1869,2025-06-10,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,32,79968,8463.74,10.58,Online
+Adidas Delhi,RET-1870,2025-06-22,North,Delhi,Delhi,Adizero SL,11999,30,359970,49286.69,13.69,Online
+Adidas Kolkata,RET-1871,2025-06-22,East,Kolkata,West Bengal,Adizero SL,11999,23,275977,57862.15,20.97,Online
+Adidas Delhi,RET-1872,2025-06-17,North,Delhi,Delhi,Climacool T-shirt,2499,29,72471,12290.82,16.96,Online
+Adidas Delhi,RET-1873,2025-06-01,North,Delhi,Delhi,Track Jacket,4999,18,89982,11786.55,13.1,Online
+Adidas Delhi,RET-1874,2025-06-07,North,Delhi,Delhi,Superstar,8999,31,278969,67742.81,24.28,Online
+Adidas Chennai,RET-1875,2025-06-06,South,Chennai,Tamil Nadu,Adizero SL,11999,36,431964,52586.26,12.17,Online
+Adidas Bengaluru,RET-1876,2025-06-06,South,Bengaluru,Karnataka,Track Jacket,4999,48,239952,25919.52,10.8,Online
+Adidas Mumbai,RET-1877,2025-06-06,West,Mumbai,Maharashtra,Track Jacket,4999,8,39992,7914.61,19.79,Online
+Adidas Chennai,RET-1878,2025-06-18,South,Chennai,Tamil Nadu,Sports Cap,999,7,6993,1154.75,16.51,Online
+Adidas Bengaluru,RET-1879,2025-06-08,South,Bengaluru,Karnataka,Climacool T-shirt,2499,36,89964,10887.89,12.1,Online
+Adidas Kolkata,RET-1880,2025-06-28,East,Kolkata,West Bengal,Climacool T-shirt,2499,27,67473,14723.98,21.82,Online
+Adidas Kolkata,RET-1881,2025-06-04,East,Kolkata,West Bengal,Sports Cap,999,34,33966,4546.55,13.39,Online
+Adidas Delhi,RET-1882,2025-06-23,North,Delhi,Delhi,Adizero SL,11999,43,515957,82845.77,16.06,Retail Store
+Adidas Chennai,RET-1883,2025-06-24,South,Chennai,Tamil Nadu,Track Jacket,4999,37,184963,26899.03,14.54,Online
+Adidas Delhi,RET-1884,2025-06-28,North,Delhi,Delhi,Sports Cap,999,26,25974,3645.85,14.04,Retail Store
+Adidas Kolkata,RET-1885,2025-06-01,East,Kolkata,West Bengal,Superstar,8999,26,233974,49938.77,21.34,Retail Store
+Adidas Kolkata,RET-1886,2025-06-15,East,Kolkata,West Bengal,Ultraboost 22,18999,14,265986,47759.45,17.96,Retail Store
+Adidas Bengaluru,RET-1887,2025-06-17,South,Bengaluru,Karnataka,Ultraboost 22,18999,46,873954,153672.27,17.58,Online
+Adidas Chennai,RET-1888,2025-06-14,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,20,49980,10371.56,20.75,Online
+Adidas Chennai,RET-1889,2025-06-03,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,20,49980,9645.72,19.3,Online
+Adidas Chennai,RET-1890,2025-06-12,South,Chennai,Tamil Nadu,Sports Cap,999,29,28971,4202.04,14.5,Retail Store
+Adidas Chennai,RET-1891,2025-06-05,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,50,124950,19047.3,15.24,Retail Store
+Adidas Chennai,RET-1892,2025-06-22,South,Chennai,Tamil Nadu,Adizero SL,11999,29,347971,57386.77,16.49,Online
+Adidas Delhi,RET-1893,2025-06-27,North,Delhi,Delhi,Superstar,8999,47,422953,82896.48,19.6,Online
+Adidas Chennai,RET-1894,2025-06-28,South,Chennai,Tamil Nadu,Ultraboost 22,18999,39,740961,127427.96,17.2,Retail Store
+Adidas Bengaluru,RET-1895,2025-06-26,South,Bengaluru,Karnataka,Sports Cap,999,18,17982,3683.95,20.49,Retail Store
+Adidas Chennai,RET-1896,2025-06-02,South,Chennai,Tamil Nadu,Superstar,8999,24,215976,24384.85,11.29,Retail Store
+Adidas Kolkata,RET-1897,2025-06-25,East,Kolkata,West Bengal,Superstar,8999,25,224975,30423.37,13.52,Retail Store
+Adidas Bengaluru,RET-1898,2025-06-08,South,Bengaluru,Karnataka,Ultraboost 22,18999,22,417978,64251.38,15.37,Retail Store
+Adidas Delhi,RET-1899,2025-06-29,North,Delhi,Delhi,Sports Cap,999,41,40959,8207.21,20.04,Online
+Adidas Chennai,RET-1900,2025-06-14,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,35,87465,14993.21,17.14,Online
+Adidas Chennai,RET-1901,2025-06-03,South,Chennai,Tamil Nadu,Adizero SL,11999,40,479960,104714.73,21.82,Retail Store
+Adidas Mumbai,RET-1902,2025-06-18,West,Mumbai,Maharashtra,Track Jacket,4999,35,174965,30461.1,17.41,Retail Store
+Adidas Delhi,RET-1903,2025-06-06,North,Delhi,Delhi,Ultraboost 22,18999,11,208989,39801.79,19.04,Online
+Adidas Mumbai,RET-1904,2025-06-09,West,Mumbai,Maharashtra,Sports Cap,999,9,8991,1051.44,11.69,Online
+Adidas Chennai,RET-1905,2025-06-02,South,Chennai,Tamil Nadu,Ultraboost 22,18999,28,531972,126314.03,23.74,Online
+Adidas Delhi,RET-1906,2025-06-14,North,Delhi,Delhi,Sports Cap,999,49,48951,8969.38,18.32,Retail Store
+Adidas Delhi,RET-1907,2025-06-11,North,Delhi,Delhi,Sports Cap,999,43,42957,7896.86,18.38,Retail Store
+Adidas Mumbai,RET-1908,2025-06-24,West,Mumbai,Maharashtra,Adizero SL,11999,6,71994,15826.81,21.98,Online
+Adidas Kolkata,RET-1909,2025-06-03,East,Kolkata,West Bengal,Adizero SL,11999,34,407966,101016.88,24.76,Online
+Adidas Mumbai,RET-1910,2025-06-27,West,Mumbai,Maharashtra,Adizero SL,11999,6,71994,16212.81,22.52,Online
+Adidas Chennai,RET-1911,2025-06-20,South,Chennai,Tamil Nadu,Track Jacket,4999,44,219956,43310.61,19.69,Retail Store
+Adidas Chennai,RET-1912,2025-06-11,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,17,42483,10307.38,24.26,Retail Store
+Adidas Chennai,RET-1913,2025-06-27,South,Chennai,Tamil Nadu,Track Jacket,4999,5,24995,4379.47,17.52,Retail Store
+Adidas Chennai,RET-1914,2025-06-12,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,36,89964,17615.85,19.58,Retail Store
+Adidas Kolkata,RET-1915,2025-06-08,East,Kolkata,West Bengal,Climacool T-shirt,2499,43,107457,21178.95,19.71,Retail Store
+Adidas Mumbai,RET-1916,2025-06-29,West,Mumbai,Maharashtra,Superstar,8999,45,404955,40880.45,10.1,Online
+Adidas Bengaluru,RET-1917,2025-06-21,South,Bengaluru,Karnataka,Superstar,8999,50,449950,60383.35,13.42,Online
+Adidas Kolkata,RET-1918,2025-06-23,East,Kolkata,West Bengal,Adizero SL,11999,24,287976,35862.55,12.45,Retail Store
+Adidas Kolkata,RET-1919,2025-06-22,East,Kolkata,West Bengal,Superstar,8999,37,332963,80126.51,24.06,Retail Store
+Adidas Mumbai,RET-1920,2025-06-13,West,Mumbai,Maharashtra,Sports Cap,999,43,42957,6293.97,14.65,Online
+Adidas Bengaluru,RET-1921,2025-06-01,South,Bengaluru,Karnataka,Sports Cap,999,24,23976,5638.97,23.52,Retail Store
+Adidas Chennai,RET-1922,2025-06-18,South,Chennai,Tamil Nadu,Superstar,8999,30,269970,40359.73,14.95,Online
+Adidas Delhi,RET-1923,2025-06-22,North,Delhi,Delhi,Track Jacket,4999,42,209958,49387.68,23.52,Online
+Adidas Kolkata,RET-1924,2025-06-12,East,Kolkata,West Bengal,Track Jacket,4999,45,224955,47280.68,21.02,Online
+Adidas Kolkata,RET-1925,2025-06-05,East,Kolkata,West Bengal,Sports Cap,999,42,41958,9090.96,21.67,Online
+Adidas Kolkata,RET-1926,2025-06-22,East,Kolkata,West Bengal,Ultraboost 22,18999,9,170991,19373.82,11.33,Retail Store
+Adidas Chennai,RET-1927,2025-06-19,South,Chennai,Tamil Nadu,Sports Cap,999,50,49950,7305.5,14.63,Online
+Adidas Kolkata,RET-1928,2025-06-25,East,Kolkata,West Bengal,Superstar,8999,48,431952,46355.37,10.73,Online
+Adidas Delhi,RET-1929,2025-06-07,North,Delhi,Delhi,Adizero SL,11999,50,599950,122187.53,20.37,Retail Store
+Adidas Kolkata,RET-1930,2025-06-11,East,Kolkata,West Bengal,Climacool T-shirt,2499,44,109956,25517.39,23.21,Online
+Adidas Kolkata,RET-1931,2025-06-11,East,Kolkata,West Bengal,Sports Cap,999,19,18981,4472.06,23.56,Online
+Adidas Mumbai,RET-1932,2025-06-21,West,Mumbai,Maharashtra,Sports Cap,999,22,21978,3048.49,13.87,Online
+Adidas Mumbai,RET-1933,2025-06-19,West,Mumbai,Maharashtra,Climacool T-shirt,2499,37,92463,21153.78,22.88,Online
+Adidas Chennai,RET-1934,2025-06-10,South,Chennai,Tamil Nadu,Sports Cap,999,25,24975,2813.09,11.26,Retail Store
+Adidas Delhi,RET-1935,2025-06-23,North,Delhi,Delhi,Sports Cap,999,10,9990,2164.84,21.67,Retail Store
+Adidas Bengaluru,RET-1936,2025-06-23,South,Bengaluru,Karnataka,Adizero SL,11999,48,575952,111102.27,19.29,Online
+Adidas Delhi,RET-1937,2025-06-08,North,Delhi,Delhi,Adizero SL,11999,28,335972,48902.63,14.56,Online
+Adidas Chennai,RET-1938,2025-06-11,South,Chennai,Tamil Nadu,Adizero SL,11999,5,59995,6289.01,10.48,Online
+Adidas Kolkata,RET-1939,2025-06-29,East,Kolkata,West Bengal,Superstar,8999,6,53994,12074.6,22.36,Online
+Adidas Chennai,RET-1940,2025-06-30,South,Chennai,Tamil Nadu,Adizero SL,11999,17,203983,34212.06,16.77,Online
+Adidas Chennai,RET-1941,2025-06-24,South,Chennai,Tamil Nadu,Sports Cap,999,32,31968,5272.36,16.49,Online
+Adidas Chennai,RET-1942,2025-06-02,South,Chennai,Tamil Nadu,Track Jacket,4999,25,124975,18823.67,15.06,Online
+Adidas Kolkata,RET-1943,2025-06-12,East,Kolkata,West Bengal,Track Jacket,4999,32,159968,16017.94,10.01,Retail Store
+Adidas Bengaluru,RET-1944,2025-06-19,South,Bengaluru,Karnataka,Adizero SL,11999,45,539955,110111.04,20.39,Online
+Adidas Kolkata,RET-1945,2025-06-05,East,Kolkata,West Bengal,Ultraboost 22,18999,37,702963,109505.79,15.58,Retail Store
+Adidas Delhi,RET-1946,2025-06-24,North,Delhi,Delhi,Superstar,8999,10,89990,15104.01,16.78,Online
+Adidas Mumbai,RET-1947,2025-06-01,West,Mumbai,Maharashtra,Climacool T-shirt,2499,8,19992,4967.41,24.85,Retail Store
+Adidas Delhi,RET-1948,2025-06-27,North,Delhi,Delhi,Ultraboost 22,18999,5,94995,13006.99,13.69,Online
+Adidas Delhi,RET-1949,2025-06-30,North,Delhi,Delhi,Climacool T-shirt,2499,30,74970,8118.38,10.83,Retail Store
+Adidas Delhi,RET-1950,2025-06-18,North,Delhi,Delhi,Sports Cap,999,24,23976,3283.56,13.7,Online
+Adidas Mumbai,RET-1951,2025-06-04,West,Mumbai,Maharashtra,Superstar,8999,8,71992,14520.63,20.17,Online
+Adidas Bengaluru,RET-1952,2025-06-03,South,Bengaluru,Karnataka,Sports Cap,999,27,26973,5411.29,20.06,Online
+Adidas Kolkata,RET-1953,2025-06-23,East,Kolkata,West Bengal,Climacool T-shirt,2499,28,69972,9623.53,13.75,Retail Store
+Adidas Bengaluru,RET-1954,2025-06-26,South,Bengaluru,Karnataka,Superstar,8999,16,143984,21740.89,15.1,Retail Store
+Adidas Kolkata,RET-1955,2025-06-21,East,Kolkata,West Bengal,Climacool T-shirt,2499,14,34986,4843.46,13.84,Online
+Adidas Chennai,RET-1956,2025-06-14,South,Chennai,Tamil Nadu,Sports Cap,999,14,13986,3467.02,24.79,Online
+Adidas Delhi,RET-1957,2025-06-20,North,Delhi,Delhi,Adizero SL,11999,39,467961,49876.02,10.66,Retail Store
+Adidas Kolkata,RET-1958,2025-06-16,East,Kolkata,West Bengal,Superstar,8999,9,80991,13983.47,17.27,Retail Store
+Adidas Chennai,RET-1959,2025-06-08,South,Chennai,Tamil Nadu,Ultraboost 22,18999,39,740961,158678.37,21.42,Online
+Adidas Chennai,RET-1960,2025-06-09,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,17,42483,8556.66,20.14,Retail Store
+Adidas Delhi,RET-1961,2025-06-03,North,Delhi,Delhi,Sports Cap,999,41,40959,4662.74,11.38,Retail Store
+Adidas Kolkata,RET-1962,2025-06-08,East,Kolkata,West Bengal,Track Jacket,4999,48,239952,46552.7,19.4,Retail Store
+Adidas Delhi,RET-1963,2025-06-05,North,Delhi,Delhi,Sports Cap,999,42,41958,9573.23,22.82,Retail Store
+Adidas Kolkata,RET-1964,2025-06-01,East,Kolkata,West Bengal,Track Jacket,4999,5,24995,5442.54,21.77,Retail Store
+Adidas Kolkata,RET-1965,2025-06-23,East,Kolkata,West Bengal,Ultraboost 22,18999,49,930951,165024.79,17.73,Retail Store
+Adidas Delhi,RET-1966,2025-06-05,North,Delhi,Delhi,Climacool T-shirt,2499,27,67473,13060.11,19.36,Online
+Adidas Delhi,RET-1967,2025-06-26,North,Delhi,Delhi,Adizero SL,11999,50,599950,147212.91,24.54,Retail Store
+Adidas Mumbai,RET-1968,2025-06-02,West,Mumbai,Maharashtra,Climacool T-shirt,2499,38,94962,18448.25,19.43,Retail Store
+Adidas Chennai,RET-1969,2025-06-19,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,14,34986,8154.58,23.31,Retail Store
+Adidas Mumbai,RET-1970,2025-06-30,West,Mumbai,Maharashtra,Track Jacket,4999,32,159968,37046.34,23.16,Online
+Adidas Kolkata,RET-1971,2025-06-28,East,Kolkata,West Bengal,Adizero SL,11999,50,599950,110183.56,18.37,Retail Store
+Adidas Chennai,RET-1972,2025-06-24,South,Chennai,Tamil Nadu,Adizero SL,11999,8,95992,18465.65,19.24,Retail Store
+Adidas Kolkata,RET-1973,2025-06-01,East,Kolkata,West Bengal,Sports Cap,999,24,23976,5078.06,21.18,Online
+Adidas Chennai,RET-1974,2025-06-16,South,Chennai,Tamil Nadu,Sports Cap,999,35,34965,8270.2,23.65,Retail Store
+Adidas Delhi,RET-1975,2025-06-03,North,Delhi,Delhi,Superstar,8999,46,413954,95970.46,23.18,Retail Store
+Adidas Chennai,RET-1976,2025-06-03,South,Chennai,Tamil Nadu,Track Jacket,4999,7,34993,7817.54,22.34,Retail Store
+Adidas Chennai,RET-1977,2025-06-21,South,Chennai,Tamil Nadu,Ultraboost 22,18999,41,778959,167912.88,21.56,Retail Store
+Adidas Delhi,RET-1978,2025-06-26,North,Delhi,Delhi,Superstar,8999,22,197978,33587.11,16.97,Online
+Adidas Bengaluru,RET-1979,2025-06-05,South,Bengaluru,Karnataka,Adizero SL,11999,27,323973,61206.88,18.89,Retail Store
+Adidas Kolkata,RET-1980,2025-06-25,East,Kolkata,West Bengal,Sports Cap,999,46,45954,5480.42,11.93,Online
+Adidas Chennai,RET-1981,2025-06-18,South,Chennai,Tamil Nadu,Sports Cap,999,18,17982,2560.32,14.24,Online
+Adidas Bengaluru,RET-1982,2025-06-26,South,Bengaluru,Karnataka,Ultraboost 22,18999,49,930951,195439.92,20.99,Retail Store
+Adidas Kolkata,RET-1983,2025-06-07,East,Kolkata,West Bengal,Sports Cap,999,32,31968,5845.27,18.28,Retail Store
+Adidas Delhi,RET-1984,2025-06-04,North,Delhi,Delhi,Climacool T-shirt,2499,9,22491,4111.13,18.28,Retail Store
+Adidas Mumbai,RET-1985,2025-06-21,West,Mumbai,Maharashtra,Track Jacket,4999,35,174965,30911.88,17.67,Retail Store
+Adidas Delhi,RET-1986,2025-06-09,North,Delhi,Delhi,Adizero SL,11999,27,323973,33944.53,10.48,Retail Store
+Adidas Mumbai,RET-1987,2025-06-26,West,Mumbai,Maharashtra,Track Jacket,4999,47,234953,58419.93,24.86,Online
+Adidas Delhi,RET-1988,2025-06-18,North,Delhi,Delhi,Superstar,8999,38,341962,74932.27,21.91,Retail Store
+Adidas Chennai,RET-1989,2025-06-02,South,Chennai,Tamil Nadu,Adizero SL,11999,11,131989,16703.63,12.66,Online
+Adidas Kolkata,RET-1990,2025-06-14,East,Kolkata,West Bengal,Sports Cap,999,26,25974,2828.99,10.89,Retail Store
+Adidas Delhi,RET-1991,2025-06-28,North,Delhi,Delhi,Track Jacket,4999,35,174965,28046.55,16.03,Retail Store
+Adidas Kolkata,RET-1992,2025-06-22,East,Kolkata,West Bengal,Sports Cap,999,14,13986,1746.15,12.48,Retail Store
+Adidas Delhi,RET-1993,2025-06-15,North,Delhi,Delhi,Ultraboost 22,18999,45,854955,154821.54,18.11,Retail Store
+Adidas Mumbai,RET-1994,2025-06-23,West,Mumbai,Maharashtra,Superstar,8999,21,188979,28321.14,14.99,Retail Store
+Adidas Chennai,RET-1995,2025-06-10,South,Chennai,Tamil Nadu,Track Jacket,4999,7,34993,5934.15,16.96,Retail Store
+Adidas Bengaluru,RET-1996,2025-06-09,South,Bengaluru,Karnataka,Superstar,8999,26,233974,35327.26,15.1,Retail Store
+Adidas Delhi,RET-1997,2025-06-25,North,Delhi,Delhi,Track Jacket,4999,27,134973,28584.23,21.18,Retail Store
+Adidas Bengaluru,RET-1998,2025-06-29,South,Bengaluru,Karnataka,Climacool T-shirt,2499,37,92463,16040.79,17.35,Retail Store
+Adidas Kolkata,RET-1999,2025-06-14,East,Kolkata,West Bengal,Track Jacket,4999,50,249950,36256.61,14.51,Retail Store
+Adidas Mumbai,RET-2000,2025-06-29,West,Mumbai,Maharashtra,Climacool T-shirt,2499,49,122451,26312.49,21.49,Retail Store
+Adidas Delhi,RET-2001,2025-06-03,North,Delhi,Delhi,Adizero SL,11999,9,107991,19438.28,18.0,Retail Store
+Adidas Kolkata,RET-2002,2025-06-06,East,Kolkata,West Bengal,Sports Cap,999,48,47952,7860.98,16.39,Online
+Adidas Delhi,RET-2003,2025-06-18,North,Delhi,Delhi,Sports Cap,999,37,36963,5215.2,14.11,Retail Store
+Adidas Delhi,RET-2004,2025-06-24,North,Delhi,Delhi,Superstar,8999,9,80991,17635.99,21.78,Retail Store
+Adidas Mumbai,RET-2005,2025-06-17,West,Mumbai,Maharashtra,Superstar,8999,23,206977,42374.09,20.47,Retail Store
+Adidas Bengaluru,RET-2006,2025-06-11,South,Bengaluru,Karnataka,Track Jacket,4999,42,209958,21880.0,10.42,Online
+Adidas Delhi,RET-2007,2025-06-13,North,Delhi,Delhi,Sports Cap,999,47,46953,10904.45,23.22,Retail Store
+Adidas Delhi,RET-2008,2025-06-02,North,Delhi,Delhi,Sports Cap,999,41,40959,8545.06,20.86,Online
+Adidas Delhi,RET-2009,2025-06-13,North,Delhi,Delhi,Climacool T-shirt,2499,33,82467,12129.73,14.71,Online
+Adidas Mumbai,RET-2010,2025-06-29,West,Mumbai,Maharashtra,Adizero SL,11999,33,395967,44983.56,11.36,Online
+Adidas Delhi,RET-2011,2025-06-22,North,Delhi,Delhi,Ultraboost 22,18999,29,550971,106860.87,19.4,Retail Store
+Adidas Chennai,RET-2012,2025-06-07,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,46,114954,24089.33,20.96,Retail Store
+Adidas Bengaluru,RET-2013,2025-06-03,South,Bengaluru,Karnataka,Climacool T-shirt,2499,35,87465,16396.28,18.75,Retail Store
+Adidas Delhi,RET-2014,2025-06-11,North,Delhi,Delhi,Adizero SL,11999,10,119990,16495.72,13.75,Online
+Adidas Mumbai,RET-2015,2025-06-30,West,Mumbai,Maharashtra,Superstar,8999,10,89990,15180.73,16.87,Retail Store
+Adidas Chennai,RET-2016,2025-06-22,South,Chennai,Tamil Nadu,Adizero SL,11999,22,263978,48428.62,18.35,Online
+Adidas Chennai,RET-2017,2025-06-21,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,19,47481,10081.83,21.23,Online
+Adidas Kolkata,RET-2018,2025-06-20,East,Kolkata,West Bengal,Track Jacket,4999,24,119976,18012.78,15.01,Online
+Adidas Chennai,RET-2019,2025-06-24,South,Chennai,Tamil Nadu,Track Jacket,4999,35,174965,17716.93,10.13,Online
+Adidas Chennai,RET-2020,2025-06-22,South,Chennai,Tamil Nadu,Adizero SL,11999,45,539955,121858.34,22.57,Retail Store
+Adidas Mumbai,RET-2021,2025-06-11,West,Mumbai,Maharashtra,Ultraboost 22,18999,20,379980,85854.98,22.59,Online
+Adidas Mumbai,RET-2022,2025-06-04,West,Mumbai,Maharashtra,Sports Cap,999,48,47952,5579.1,11.63,Online
+Adidas Chennai,RET-2023,2025-06-11,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,14,34986,3783.52,10.81,Retail Store
+Adidas Chennai,RET-2024,2025-06-05,South,Chennai,Tamil Nadu,Ultraboost 22,18999,44,835956,130897.27,15.66,Online
+Adidas Delhi,RET-2025,2025-06-27,North,Delhi,Delhi,Track Jacket,4999,37,184963,41699.37,22.54,Online
+Adidas Chennai,RET-2026,2025-06-01,South,Chennai,Tamil Nadu,Ultraboost 22,18999,49,930951,169945.7,18.26,Retail Store
+Adidas Bengaluru,RET-2027,2025-06-02,South,Bengaluru,Karnataka,Ultraboost 22,18999,6,113994,13310.27,11.68,Online
+Adidas Bengaluru,RET-2028,2025-06-21,South,Bengaluru,Karnataka,Superstar,8999,17,152983,28538.87,18.65,Online
+Adidas Kolkata,RET-2029,2025-06-17,East,Kolkata,West Bengal,Superstar,8999,46,413954,99524.67,24.04,Online
+Adidas Mumbai,RET-2030,2025-06-15,West,Mumbai,Maharashtra,Ultraboost 22,18999,16,303984,59566.43,19.6,Online
+Adidas Chennai,RET-2031,2025-06-12,South,Chennai,Tamil Nadu,Climacool T-shirt,2499,42,104958,12614.81,12.02,Online
+Adidas Kolkata,RET-2032,2025-06-26,East,Kolkata,West Bengal,Track Jacket,4999,11,54989,11221.86,20.41,Online
+Adidas Mumbai,RET-2033,2025-06-26,West,Mumbai,Maharashtra,Sports Cap,999,48,47952,7347.17,15.32,Retail Store
+Adidas Delhi,RET-2034,2025-06-22,North,Delhi,Delhi,Sports Cap,999,43,42957,6248.1,14.55,Retail Store
+Adidas Mumbai,RET-2035,2025-06-05,West,Mumbai,Maharashtra,Superstar,8999,24,215976,53306.31,24.68,Online
+Adidas Mumbai,RET-2036,2025-06-05,West,Mumbai,Maharashtra,Superstar,8999,25,224975,32533.41,14.46,Online
+Adidas Bengaluru,RET-2037,2025-06-07,South,Bengaluru,Karnataka,Ultraboost 22,18999,13,246987,55844.98,22.61,Retail Store
+Adidas Mumbai,RET-2038,2025-06-28,West,Mumbai,Maharashtra,Adizero SL,11999,18,215982,29552.99,13.68,Online
+Adidas Mumbai,RET-2039,2025-06-03,West,Mumbai,Maharashtra,Adizero SL,11999,5,59995,9167.09,15.28,Online
+Adidas Bengaluru,RET-2040,2025-06-10,South,Bengaluru,Karnataka,Superstar,8999,19,170981,31280.05,18.29,Retail Store
+Adidas Kolkata,RET-2041,2025-06-29,East,Kolkata,West Bengal,Superstar,8999,40,359960,43141.05,11.98,Retail Store
+Adidas Delhi,RET-2042,2025-06-11,North,Delhi,Delhi,Sports Cap,999,17,16983,3943.72,23.22,Online
+Adidas Mumbai,RET-2043,2025-06-05,West,Mumbai,Maharashtra,Ultraboost 22,18999,6,113994,18031.05,15.82,Online
+Adidas Delhi,RET-2044,2025-06-25,North,Delhi,Delhi,Climacool T-shirt,2499,36,89964,16613.9,18.47,Retail Store
+Adidas Kolkata,RET-2045,2025-06-24,East,Kolkata,West Bengal,Superstar,8999,34,305966,60237.68,19.69,Online
+Adidas Mumbai,RET-2046,2025-06-07,West,Mumbai,Maharashtra,Ultraboost 22,18999,35,664965,152828.99,22.98,Retail Store
+Adidas Chennai,RET-2047,2025-06-03,South,Chennai,Tamil Nadu,Superstar,8999,45,404955,65878.56,16.27,Retail Store
+Adidas Chennai,RET-2048,2025-06-21,South,Chennai,Tamil Nadu,Sports Cap,999,9,8991,2213.21,24.62,Online
+Adidas Bengaluru,RET-2049,2025-06-09,South,Bengaluru,Karnataka,Superstar,8999,9,80991,15459.05,19.09,Retail Store
+Adidas Bengaluru,RET-2050,2025-06-12,South,Bengaluru,Karnataka,Climacool T-shirt,2499,35,87465,11873.39,13.58,Online
+Adidas Bengaluru,RET-2051,2025-06-11,South,Bengaluru,Karnataka,Adizero SL,11999,5,59995,6104.25,10.17,Retail Store
+Adidas Bengaluru,RET-2052,2025-06-21,South,Bengaluru,Karnataka,Superstar,8999,34,305966,69406.24,22.68,Online
+Adidas Bengaluru,RET-2053,2025-06-28,South,Bengaluru,Karnataka,Superstar,8999,40,359960,78336.26,21.76,Retail Store
+Adidas Kolkata,RET-2054,2025-06-02,East,Kolkata,West Bengal,Superstar,8999,9,80991,20022.49,24.72,Retail Store
+Adidas Chennai,RET-2055,2025-06-18,South,Chennai,Tamil Nadu,Sports Cap,999,14,13986,3318.71,23.73,Online
+Adidas Chennai,RET-2056,2025-06-15,South,Chennai,Tamil Nadu,Ultraboost 22,18999,16,303984,36584.74,12.04,Online
+Adidas Mumbai,RET-2057,2025-06-23,West,Mumbai,Maharashtra,Adizero SL,11999,29,347971,39407.78,11.33,Retail Store
+Adidas Delhi,RET-2058,2025-06-11,North,Delhi,Delhi,Ultraboost 22,18999,41,778959,162005.54,20.8,Online
+Adidas Bengaluru,RET-2059,2025-06-01,South,Bengaluru,Karnataka,Track Jacket,4999,40,199960,35238.65,17.62,Retail Store
+Adidas Chennai,RET-2060,2025-06-11,South,Chennai,Tamil Nadu,Track Jacket,4999,10,49990,9509.61,19.02,Online
+Adidas Mumbai,RET-2061,2025-06-05,West,Mumbai,Maharashtra,Track Jacket,4999,23,114977,22614.82,19.67,Online
+Adidas Mumbai,RET-2062,2025-06-03,West,Mumbai,Maharashtra,Track Jacket,4999,42,209958,29109.25,13.86,Online
+Adidas Mumbai,RET-2063,2025-06-07,West,Mumbai,Maharashtra,Sports Cap,999,41,40959,5030.48,12.28,Retail Store
+Adidas Kolkata,RET-2064,2025-06-14,East,Kolkata,West Bengal,Sports Cap,999,46,45954,4684.51,10.19,Retail Store
+Adidas Mumbai,RET-2065,2025-06-08,West,Mumbai,Maharashtra,Track Jacket,4999,26,129974,32082.8,24.68,Online
+Adidas Kolkata,RET-2066,2025-06-28,East,Kolkata,West Bengal,Ultraboost 22,18999,50,949950,138254.83,14.55,Retail Store
+Adidas Mumbai,RET-2067,2025-06-03,West,Mumbai,Maharashtra,Climacool T-shirt,2499,15,37485,7427.35,19.81,Online
+Adidas Kolkata,RET-2068,2025-06-30,East,Kolkata,West Bengal,Ultraboost 22,18999,33,626967,129267.18,20.62,Retail Store
+Adidas Chennai,RET-2069,2025-06-24,South,Chennai,Tamil Nadu,Track Jacket,4999,37,184963,21555.82,11.65,Online
+Adidas Kolkata,RET-2070,2025-06-09,East,Kolkata,West Bengal,Track Jacket,4999,15,74985,17086.24,22.79,Retail Store
+Adidas Mumbai,RET-2071,2025-06-18,West,Mumbai,Maharashtra,Ultraboost 22,18999,49,930951,219938.59,23.63,Online
+Adidas Kolkata,RET-2072,2025-06-30,East,Kolkata,West Bengal,Superstar,8999,19,170981,37943.67,22.19,Retail Store
+Adidas Delhi,RET-2073,2025-06-26,North,Delhi,Delhi,Climacool T-shirt,2499,33,82467,17162.2,20.81,Online
+Adidas Kolkata,RET-2074,2025-06-14,East,Kolkata,West Bengal,Adizero SL,11999,11,131989,15477.2,11.73,Online
+Adidas Kolkata,RET-2075,2025-06-11,East,Kolkata,West Bengal,Adizero SL,11999,33,395967,61443.16,15.52,Retail Store
+Adidas Kolkata,RET-2076,2025-06-05,East,Kolkata,West Bengal,Ultraboost 22,18999,23,436977,104176.26,23.84,Online
+Adidas Delhi,RET-2077,2025-06-30,North,Delhi,Delhi,Superstar,8999,15,134985,27725.16,20.54,Retail Store
+Adidas Bengaluru,RET-2078,2025-06-22,South,Bengaluru,Karnataka,Adizero SL,11999,37,443963,67099.48,15.11,Online
+Adidas Chennai,RET-2079,2025-06-23,South,Chennai,Tamil Nadu,Superstar,8999,46,413954,72259.49,17.46,Online
+Adidas Kolkata,RET-2080,2025-06-23,East,Kolkata,West Bengal,Adizero SL,11999,42,503958,117064.99,23.23,Online
+Adidas Chennai,RET-2081,2025-06-05,South,Chennai,Tamil Nadu,Track Jacket,4999,39,194961,42561.75,21.83,Online
+Adidas Chennai,RET-2082,2025-06-11,South,Chennai,Tamil Nadu,Track Jacket,4999,44,219956,23717.8,10.78,Online
+Adidas Chennai,RET-2083,2025-06-07,South,Chennai,Tamil Nadu,Sports Cap,999,22,21978,3233.73,14.71,Retail Store
+Adidas Mumbai,RET-2084,2025-06-06,West,Mumbai,Maharashtra,Climacool T-shirt,2499,39,97461,17456.4,17.91,Online
+Adidas Kolkata,RET-2085,2025-06-17,East,Kolkata,West Bengal,Ultraboost 22,18999,32,607968,88494.25,14.56,Retail Store
+Adidas Bengaluru,RET-2086,2025-06-23,South,Bengaluru,Karnataka,Climacool T-shirt,2499,45,112455,26324.31,23.41,Retail Store
+Adidas Mumbai,RET-2087,2025-06-13,West,Mumbai,Maharashtra,Superstar,8999,26,233974,39119.82,16.72,Online
+Adidas Chennai,RET-2088,2025-06-17,South,Chennai,Tamil Nadu,Ultraboost 22,18999,42,797958,95436.12,11.96,Retail Store
+Adidas Bengaluru,RET-2089,2025-06-22,South,Bengaluru,Karnataka,Climacool T-shirt,2499,42,104958,16432.45,15.66,Online
+Adidas Delhi,RET-2090,2025-06-19,North,Delhi,Delhi,Ultraboost 22,18999,9,170991,35915.42,21.0,Online
+Adidas Kolkata,RET-2091,2025-06-20,East,Kolkata,West Bengal,Adizero SL,11999,23,275977,68155.26,24.7,Online
+Adidas Mumbai,RET-2092,2025-06-07,West,Mumbai,Maharashtra,Superstar,8999,25,224975,33477.32,14.88,Retail Store
+Adidas Kolkata,RET-2093,2025-06-01,East,Kolkata,West Bengal,Adizero SL,11999,13,155987,29771.32,19.09,Retail Store
+Adidas Delhi,RET-2094,2025-06-25,North,Delhi,Delhi,Sports Cap,999,16,15984,3949.84,24.71,Online
+Adidas Kolkata,RET-2095,2025-06-28,East,Kolkata,West Bengal,Superstar,8999,41,368959,44673.68,12.11,Retail Store
+Adidas Delhi,RET-2096,2025-06-15,North,Delhi,Delhi,Ultraboost 22,18999,30,569970,114751.75,20.13,Online
+Adidas Kolkata,RET-2097,2025-06-28,East,Kolkata,West Bengal,Climacool T-shirt,2499,23,57477,9283.19,16.15,Retail Store
+Adidas Kolkata,RET-2098,2025-06-11,East,Kolkata,West Bengal,Ultraboost 22,18999,44,835956,173750.52,20.78,Retail Store
+Adidas Mumbai,RET-2099,2025-06-07,West,Mumbai,Maharashtra,Track Jacket,4999,15,74985,15708.07,20.95,Online
+Adidas Delhi,RET-2100,2025-06-02,North,Delhi,Delhi,Ultraboost 22,18999,30,569970,98323.07,17.25,Online
